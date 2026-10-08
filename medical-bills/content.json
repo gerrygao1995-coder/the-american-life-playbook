@@ -1,0 +1,551 @@
+{
+  "schemaVersion": 1,
+  "title": "Before You Pay That Medical Bill",
+  "subtitle": "Four practical paths to check the charge, preserve your deadlines, and ask for help.",
+  "intro": "A large balance can mean several different things: a billing mistake, an insurance decision, an unaffordable but accurate charge, or a self-pay bill above an estimate. Start with the closest match below. You may need two paths at once. This guide helps you organize the next conversation; it does not promise a discount or decide what you legally owe.",
+  "checked": "2026-10-09",
+  "emergencyNote": "If you are having a medical emergency, call 911. Do not delay emergency care to finish billing paperwork.",
+  "howToUse": [
+    "Put the bill, insurance notices, receipts, and any estimate in one folder. Record the date each notice arrived.",
+    "Write down every payment, appeal, dispute, and court deadline separately. A phone call or request for a hold does not automatically extend any of them.",
+    "Use verified provider and plan contact details. Keep copies, submission confirmations, names, and reference numbers."
+  ],
+  "routes": [
+    {
+      "id": "mismatch",
+      "title": "The bill and EOB do not match",
+      "summary": "Reconcile the documents before treating the printed balance as the final amount.",
+      "chooseIf": "You used insurance, but the provider's bill differs from the plan's explanation of benefits, omits payments, or lists unfamiliar services.",
+      "steps": [
+        {
+          "title": "Match the same claim",
+          "body": "An explanation of benefits (EOB) is not a bill. Match the patient, provider, service date, and claim number. Use the latest EOB; a corrected claim can generate another version. Its patient-responsibility amount may not subtract copays or deposits you already paid.",
+          "sourceIds": [
+            "cms-eob"
+          ]
+        },
+        {
+          "title": "Ask for the underlying detail",
+          "body": "Request an itemized bill and a payment history. Check services, quantities, insurance payments, contractual adjustments, and your receipts. Flag suspected duplicate charges or care you did not receive. Ask the office to explain the coding; unfamiliar wording alone does not establish an error.",
+          "sourceIds": [
+            "cms-errors"
+          ]
+        },
+        {
+          "title": "Give each office a specific task",
+          "body": "Ask billing to explain or correct the difference. Ask the insurer whether the claim was processed and whether another submission is needed. If coverage was denied, also use the denial path. Agree on a follow-up date and request written confirmation of any temporary billing hold.",
+          "sourceIds": [
+            "cms-errors",
+            "hc-internal"
+          ]
+        },
+        {
+          "title": "Close the loop",
+          "body": "Save the revised bill and EOB, and check that the correction or payment posted to the right account. If the balance remains unclear, ask a patient advocate or state Consumer Assistance Program for help. Keep the payment deadline visible while the offices investigate.",
+          "sourceIds": [
+            "cms-errors"
+          ]
+        }
+      ],
+      "checklist": [
+        "Latest EOB and matching itemized bill",
+        "Receipts, deposits, and insurance payment details",
+        "Exact disputed line or dollar difference",
+        "Written response, hold terms, and follow-up date"
+      ],
+      "script": {
+        "label": "Call or secure-message script",
+        "text": "For account [number], service date [date], my bill shows [amount] and my EOB shows [amount]. I also paid [amount]. Please explain the difference and send the itemized bill and payment history. Will you place a temporary hold while you review it? Please confirm what the hold covers and when it ends."
+      },
+      "limits": [
+        "A mismatch is a reason to investigate, not proof that the whole bill disappears.",
+        "Requesting a hold does not itself stop collections, late fees, or an appeal deadline. Get the agreement in writing and continue tracking notices."
+      ],
+      "sourceIds": [
+        "cms-eob",
+        "cms-errors",
+        "hc-internal"
+      ]
+    },
+    {
+      "id": "denial",
+      "title": "Insurance denied the claim",
+      "summary": "Challenge the coverage decision through the plan's actual appeal process.",
+      "chooseIf": "An EOB or denial letter says a service was excluded, not medically necessary, unauthorized, or otherwise unpaid.",
+      "steps": [
+        {
+          "title": "Identify the reason and the deadline",
+          "body": "Save the denial notice and request the cited plan provision. Check whether the problem is missing information, claim processing, or a coverage decision. For plans covered by the ACA appeals rules described by HealthCare.gov, an internal appeal is generally due within 180 days after receiving the denial.",
+          "sourceIds": [
+            "hc-internal"
+          ]
+        },
+        {
+          "title": "Submit evidence that answers the reason",
+          "body": "Ask your clinician for relevant records or a letter addressing the stated denial. Include your identifiers, claim number, requested correction, and supporting documents. Follow the plan's submission instructions and keep proof. Confirm whether a provider's submission also preserves your own appeal rights.",
+          "sourceIds": [
+            "hc-internal"
+          ]
+        },
+        {
+          "title": "Escalate when appropriate",
+          "body": "If an internal appeal fails, follow the final notice for external review. HealthCare.gov describes a four-month filing window for the processes it covers. Eligibility depends on the denial and plan; medical-judgment denials are a common example. In an urgent health situation, ask immediately about expedited review and whether internal and external review can proceed at the same time. Do not assume you must wait for the ordinary internal process to finish.",
+          "sourceIds": [
+            "hc-external",
+            "hc-internal"
+          ]
+        },
+        {
+          "title": "Use the right coverage system",
+          "body": "Medicare has separate appeal paths for Original Medicare, health plans, and drug plans; SHIP offers free counseling. For Medicaid, use your state agency and plan's notices to identify the applicable review process. Do not substitute this guide's commercial-plan deadlines for either program's instructions.",
+          "sourceIds": [
+            "medicare-appeals",
+            "medicaid-help"
+          ]
+        }
+      ],
+      "checklist": [
+        "Denial reason and relevant plan provision",
+        "Deadline and submission address or portal",
+        "Clinician evidence and authorization, if required",
+        "Confirmation number and retained copies"
+      ],
+      "script": {
+        "label": "Appeal-preparation script",
+        "text": "I want to appeal denial [claim number]. Please identify the exact reason, plan provision, filing deadline, and submission method. What records would address the reason? Does the provider's pending review count as my appeal, or must I file separately? Please send the instructions in writing."
+      },
+      "limits": [
+        "A billing inquiry, corrected claim, complaint, and formal appeal are different processes; one may not replace another.",
+        "External review is not available for every dispute. Plan type, state procedures, and urgent-care rules matter. Keep pursuing billing assistance while preserving appeal rights."
+      ],
+      "sourceIds": [
+        "hc-internal",
+        "hc-external",
+        "medicare-appeals",
+        "medicaid-help"
+      ]
+    },
+    {
+      "id": "affordability",
+      "title": "The bill is accurate, but you cannot afford it",
+      "summary": "Ask about assistance before committing the balance to new debt.",
+      "chooseIf": "After checking coverage and charges, paying the remaining balance would strain basic living expenses.",
+      "steps": [
+        {
+          "title": "Request the actual assistance policy",
+          "body": "Ask for financial assistance or charity care, including the application and plain-language summary. Tax-exempt nonprofit hospitals must maintain a financial assistance policy (FAP). Eligibility and discounts depend on the policy. Ask which separately billing clinicians are covered; the hospital's program does not automatically cover every doctor.",
+          "sourceIds": [
+            "irs-fap"
+          ]
+        },
+        {
+          "title": "Apply with a complete record",
+          "body": "For covered tax-exempt hospital care, you can apply as soon as care is provided. The protected application period generally runs through at least 240 days after the hospital sends the first post-discharge bill; some notices extend it. Apply promptly. Follow the document checklist, ask about alternatives for unavailable documents, and keep a receipt. Ask for a written decision and reconsideration process. Having insurance does not automatically rule out assistance.",
+          "sourceIds": [
+            "irs-fap",
+            "cfpb-afford",
+            "ecfr-fap-period"
+          ]
+        },
+        {
+          "title": "Ask which collection protections apply",
+          "body": "A timely, complete FAP application requires suspension of extraordinary collection actions, such as a lawsuit over the bill, while eligibility is determined. A timely incomplete application also triggers protection: the hospital must identify missing information and suspend those actions while giving you a reasonable opportunity to complete it. Respond promptly to the missing-document notice. These protections are not a blanket pause on every billing contact.",
+          "sourceIds": [
+            "irs-collections",
+            "ecfr-fap-collection"
+          ]
+        },
+        {
+          "title": "Compare repayment only after assistance",
+          "body": "For a remaining balance, request an affordable, interest-free plan and written terms. Check fees, missed-payment consequences, and who owns the debt. A medical credit card can carry deferred interest and make assistance harder to obtain. Ask about assistance even if you already paid; payment alone does not end the inquiry.",
+          "sourceIds": [
+            "cfpb-afford",
+            "cfpb-financing"
+          ]
+        }
+      ],
+      "checklist": [
+        "FAP, application, and covered-provider list",
+        "Required income or household documents",
+        "Application receipt and missing-document requests",
+        "Written decision and proposed payment terms"
+      ],
+      "script": {
+        "label": "Financial-assistance script",
+        "text": "I cannot afford this balance. Please send your financial assistance policy, application, and list of covered providers. What documents do you need, and where can I get application help? Please confirm receipt, whether my application is complete, and which billing or collection actions are paused during review."
+      },
+      "limits": [
+        "There is no single national income cutoff or guaranteed write-off. Other hospitals and state laws may offer different protections.",
+        "The 240-day federal framework is not permission to ignore bills or court papers. Ask the hospital to identify the dates and protections applying to your account."
+      ],
+      "sourceIds": [
+        "irs-fap",
+        "irs-collections",
+        "cfpb-afford",
+        "cfpb-financing",
+        "ecfr-fap-period",
+        "ecfr-fap-collection"
+      ]
+    },
+    {
+      "id": "self-pay",
+      "title": "You are uninsured or paying without insurance",
+      "summary": "Compare the bill with the written estimate and check the specific federal dispute rules.",
+      "chooseIf": "You told the provider in advance that you were not using insurance, and the bill is higher than expected.",
+      "steps": [
+        {
+          "title": "Find or request the estimate",
+          "body": "For future scheduled care, request a written good faith estimate. Usually this is available when care is scheduled at least three business days ahead or on request. Ask each provider and facility separately; one estimate may not cover everyone. Emergency care does not come with this advance-estimate protection.",
+          "sourceIds": [
+            "cms-selfpay"
+          ]
+        },
+        {
+          "title": "Check the threshold provider by provider",
+          "body": "Federal patient-provider dispute resolution (PPDR) may apply to eligible care received on or after January 1, 2022 when one provider or facility bills at least $400 above its good faith estimate. Compare that provider's totals; do not add unrelated providers' smaller differences together.",
+          "sourceIds": [
+            "cms-ppdr",
+            "ecfr-ppdr"
+          ]
+        },
+        {
+          "title": "Preserve the 120-day window",
+          "body": "The regulation requires initiation within 120 calendar days of receiving the initial bill containing the disputed charges. Save the bill and receipt date, and file early. Use the CMS dispute page, submit the estimate and bill, and follow its current $25 nonrefundable administrative-fee instructions. Negotiating with billing does not extend the filing window.",
+          "sourceIds": [
+            "ecfr-ppdr",
+            "cms-ppdr"
+          ]
+        },
+        {
+          "title": "Track the formal process",
+          "body": "During PPDR, the provider must pause applicable collection efforts, cannot send the disputed bill to collections, and cannot retaliate. Late-fee protections also apply. Save the official case notices and respond to requests for missing information. If you lack a written estimate, ask CMS about a complaint and use the affordability path.",
+          "sourceIds": [
+            "cms-ppdr-protections",
+            "cms-selfpay"
+          ]
+        }
+      ],
+      "checklist": [
+        "Written estimate for the same provider or facility",
+        "Initial bill, service date, and date received",
+        "Provider-specific difference of at least $400",
+        "Submission receipt, fee, and case notices"
+      ],
+      "script": {
+        "label": "Estimate-discrepancy script",
+        "text": "I told your office I was paying without insurance. Your written estimate was [amount], but this bill is [amount]. Please explain the additional charges and review the bill. I am also checking the federal dispute deadline. Please send any proposed adjustment and temporary hold terms in writing."
+      },
+      "limits": [
+        "A qualifying difference does not guarantee a reduction: medically necessary, genuinely unforeseen care can affect the outcome.",
+        "Estimate timing and eligibility still matter. Ask the CMS No Surprises Help Desk, 1-800-985-3059, if uncertain; do not wait until the deadline.",
+        "Medicare and Medicaid have separate protections and procedures. This self-pay path is not a way to bypass those programs' rules.",
+        "The CMS consumer checklist refers to the bill date. Keep proof of receipt and contact CMS promptly if the dates create an eligibility question."
+      ],
+      "sourceIds": [
+        "cms-selfpay",
+        "cms-ppdr",
+        "ecfr-ppdr",
+        "cms-ppdr-protections",
+        "cms-program-scope"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "example-eob",
+      "label": "Fictional worked example",
+      "title": "The bill omitted a payment",
+      "scenario": "Jordan receives a $340 bill. The matching EOB assigns Jordan $240, and a receipt shows a $40 payment for that visit. These invented numbers illustrate reconciliation, not a reported patient result.",
+      "actions": [
+        "Jordan checks that all three documents cover the same provider and service date.",
+        "Jordan asks billing to reconcile the apparent difference and credit the $40 receipt, while confirming whether the EOB is final.",
+        "Jordan requests written confirmation and keeps the bill deadline on the calendar."
+      ],
+      "outcome": "If the $240 responsibility is final and the $40 applies to it, the arithmetic suggests $200 remains. Billing must verify those assumptions; the example does not establish the actual amount owed.",
+      "sourceIds": [
+        "cms-eob",
+        "cms-errors"
+      ]
+    },
+    {
+      "id": "example-selfpay",
+      "label": "Fictional worked example",
+      "title": "One estimate, one larger bill",
+      "scenario": "Sam, uninsured, tells a clinic in advance and receives a written $700 estimate well before scheduled care in 2026. The same clinic later bills $1,180. The $480 difference exceeds $400.",
+      "actions": [
+        "Sam saves the estimate, initial bill, and date received, and checks CMS eligibility.",
+        "Sam asks for an explanation without letting negotiation consume the 120-day window.",
+        "If eligible, Sam follows the formal PPDR instructions and tracks official notices."
+      ],
+      "outcome": "This example shows a possible dispute route, not a promised $480 saving. Eligibility and the payment decision depend on the actual record and any reasonably unforeseen, medically necessary services.",
+      "sourceIds": [
+        "ecfr-ppdr",
+        "cms-ppdr"
+      ]
+    }
+  ],
+  "redFlags": [
+    {
+      "title": "“We put in a note, so you can ignore the deadline.”",
+      "body": "Request the hold's scope and end date in writing. Keep filing deadlines separate. An informal request is not the same as a formal appeal, PPDR case, or qualifying FAP application.",
+      "sourceIds": [
+        "hc-internal",
+        "ecfr-ppdr",
+        "irs-collections"
+      ]
+    },
+    {
+      "title": "A collector demands money for a disputed balance",
+      "body": "Verify the collector, obtain the validation notice, and use its deadline. For covered debt collectors, a timely written dispute within the 30-day validation period stops collection until verification. Keep delivery proof. Respond to court papers separately; an agency complaint is not a court response.",
+      "sourceIds": [
+        "cfpb-collector"
+      ]
+    },
+    {
+      "title": "“Put it on this card now and sort it out later.”",
+      "body": "Ask about assistance first. Check deferred interest and total financing costs; a promotional payment is not the full cost. Never promise an installment you cannot sustain.",
+      "sourceIds": [
+        "cfpb-financing"
+      ]
+    },
+    {
+      "title": "An unexpected out-of-network charge",
+      "body": "Some emergency, in-network-facility, and air-ambulance bills have federal protections. A high deductible alone is not a violation, and ground ambulances generally fall outside the federal No Surprises Act. Call CMS at 1-800-985-3059 for the appropriate route.",
+      "sourceIds": [
+        "cms-rights",
+        "cfpb-afford",
+        "cms-ppdr"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "cms-eob",
+      "title": "CMS: Read an explanation of benefits",
+      "url": "https://www.cms.gov/initiatives/your-patient-rights/medical-bill-rights/get-help/guides-resources/read-explanation-benefits",
+      "checked": "2026-10-09",
+      "supports": [
+        "EOB purpose, patient responsibility, and payments already made."
+      ],
+      "limitations": [
+        "An EOB does not establish whether a payment has posted."
+      ]
+    },
+    {
+      "id": "cms-errors",
+      "title": "CMS: Check your medical bill for errors",
+      "url": "https://www.cms.gov/initiatives/your-patient-rights/medical-bill-rights/get-help/guides-resources/check-your-bill-errors",
+      "checked": "2026-10-09",
+      "supports": [
+        "Itemization, duplicate charges, records, and billing assistance."
+      ],
+      "limitations": [
+        "An unfamiliar code alone does not prove an error."
+      ]
+    },
+    {
+      "id": "hc-internal",
+      "title": "HealthCare.gov: Internal appeals",
+      "url": "https://www.healthcare.gov/appeal-insurance-company-decision/internal-appeals/",
+      "checked": "2026-10-09",
+      "supports": [
+        "Internal appeal filing, evidence, 180-day window, urgent review."
+      ],
+      "limitations": [
+        "Applies to the described plan framework; program-specific rules differ."
+      ]
+    },
+    {
+      "id": "hc-external",
+      "title": "HealthCare.gov: External review",
+      "url": "https://www.healthcare.gov/appeal-insurance-company-decision/external-review/",
+      "checked": "2026-10-09",
+      "supports": [
+        "Eligible denial categories and four-month external-review filing window."
+      ],
+      "limitations": [
+        "Processes vary; verify the applicable final notice and current instructions."
+      ]
+    },
+    {
+      "id": "medicare-appeals",
+      "title": "Medicare: Filing an appeal",
+      "url": "https://www.medicare.gov/providers-services/claims-appeals-complaints/appeals",
+      "checked": "2026-10-09",
+      "supports": [
+        "Coverage-specific Medicare appeals and free SHIP counseling."
+      ],
+      "limitations": [
+        "Original Medicare, health plans, and drug plans use different paths."
+      ]
+    },
+    {
+      "id": "medicaid-help",
+      "title": "Medicaid: Where to get help",
+      "url": "https://www.medicaid.gov/about-us/where-can-people-get-help-medicaid-chip",
+      "checked": "2026-10-09",
+      "supports": [
+        "Official state contacts for Medicaid claims and coverage."
+      ],
+      "limitations": [
+        "Directory, not a nationwide appeal deadline."
+      ]
+    },
+    {
+      "id": "irs-fap",
+      "title": "IRS: Financial assistance policies, Section 501(r)(4)",
+      "url": "https://www.irs.gov/charities-non-profits/financial-assistance-policy-and-emergency-medical-care-policy-section-501r4",
+      "checked": "2026-10-09",
+      "supports": [
+        "Written FAP requirements, eligibility criteria, and covered-provider lists."
+      ],
+      "limitations": [
+        "Covers applicable tax-exempt hospitals; does not guarantee individual eligibility."
+      ]
+    },
+    {
+      "id": "irs-collections",
+      "title": "IRS: Billing and collections, Section 501(r)(6)",
+      "url": "https://www.irs.gov/charities-non-profits/billing-and-collections-section-501r6",
+      "checked": "2026-10-09",
+      "supports": [
+        "Application periods and extraordinary-collection protections for complete applications."
+      ],
+      "limitations": [
+        "Extraordinary actions differ from routine billing; periods can extend."
+      ]
+    },
+    {
+      "id": "cfpb-afford",
+      "title": "CFPB: If you cannot pay a medical bill",
+      "url": "https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-if-i-cant-pay-a-medical-bill-en-2125/",
+      "checked": "2026-10-09",
+      "supports": [
+        "Assistance, repayment options, and ground-ambulance federal protection limits."
+      ],
+      "limitations": [
+        "State protections and individual circumstances vary."
+      ]
+    },
+    {
+      "id": "cfpb-financing",
+      "title": "CFPB: Medical credit cards and payment plans",
+      "url": "https://www.consumerfinance.gov/ask-cfpb/what-should-i-know-about-medical-credit-cards-and-payment-plans-for-medical-bills-en-1827/",
+      "checked": "2026-10-09",
+      "supports": [
+        "Assistance before financing, deferred-interest risks, assistance after payment."
+      ],
+      "limitations": [
+        "Actual interest and repayment terms depend on the agreement."
+      ]
+    },
+    {
+      "id": "cms-selfpay",
+      "title": "CMS: Rights when not using insurance",
+      "url": "https://www.cms.gov/initiatives/your-patient-rights/medical-bill-rights/know-your-rights/without-insurance",
+      "checked": "2026-10-09",
+      "supports": [
+        "Written estimates, separate providers, emergency exception, missing-estimate complaints."
+      ],
+      "limitations": [
+        "Advance estimates have timing requirements; unanticipated services may arise."
+      ]
+    },
+    {
+      "id": "cms-ppdr",
+      "title": "CMS: Dispute a medical bill",
+      "url": "https://www.cms.gov/initiatives/your-patient-rights/medical-bill-rights/get-help/dispute-bill",
+      "checked": "2026-10-09",
+      "supports": [
+        "PPDR application, current $25 fee, care-date condition, possible outcomes."
+      ],
+      "limitations": [
+        "Page simplifies estimate timing and refers to bill date; regulatory receipt-based deadline controls. Ask CMS about timing questions."
+      ]
+    },
+    {
+      "id": "ecfr-ppdr",
+      "title": "45 CFR 149.620: Patient-provider dispute resolution",
+      "url": "https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-B/part-149/subpart-G/section-149.620",
+      "checked": "2026-10-09",
+      "supports": [
+        "Provider-specific $400 threshold; initiation within 120 calendar days of bill receipt."
+      ],
+      "limitations": [
+        "Full eligibility and submission requirements apply; eCFR is authoritative but unofficial."
+      ]
+    },
+    {
+      "id": "cms-ppdr-protections",
+      "title": "CMS: Payment resolution with patients",
+      "url": "https://www.cms.gov/initiatives/no-surprise-billing/overview/policies-resources/providers-payment-resolution-patients",
+      "checked": "2026-10-09",
+      "supports": [
+        "Collection, late-fee, and retaliation protections during formal PPDR."
+      ],
+      "limitations": [
+        "An informal billing discussion does not establish a PPDR case."
+      ]
+    },
+    {
+      "id": "cms-program-scope",
+      "title": "CMS: Provider requirements and resources",
+      "url": "https://www.cms.gov/initiatives/no-surprise-billing/overview/policies-resources/provider-requirements-resources",
+      "checked": "2026-10-09",
+      "supports": [
+        "Separate protections for Medicare, Medicaid, and other federal programs."
+      ],
+      "limitations": [
+        "General scope guidance; ask the relevant program about the actual bill."
+      ]
+    },
+    {
+      "id": "cfpb-collector",
+      "title": "CFPB: Disputing debt with a collector",
+      "url": "https://www.consumerfinance.gov/ask-cfpb/what-can-i-do-if-a-debt-collector-contacts-me-about-a-debt-i-already-paid-or-dont-think-i-owe-en-1403/",
+      "checked": "2026-10-09",
+      "supports": [
+        "Validation notice, timely written disputes, verification, and retained evidence."
+      ],
+      "limitations": [
+        "Covered debt collectors and validation-period rules; court deadlines remain separate."
+      ]
+    },
+    {
+      "id": "cms-rights",
+      "title": "CMS: Medical bill rights",
+      "url": "https://www.cms.gov/initiatives/your-patient-rights/medical-bill-rights",
+      "checked": "2026-10-09",
+      "supports": [
+        "Protected care settings and No Surprises Help Desk contact."
+      ],
+      "limitations": [
+        "Not every unexpected or expensive bill violates federal law."
+      ]
+    },
+    {
+      "id": "ecfr-fap-period",
+      "title": "26 CFR 1.501(r)-1: Financial assistance application period",
+      "url": "https://www.ecfr.gov/current/title-26/section-1.501(r)-1",
+      "checked": "2026-10-09",
+      "supports": [
+        "Application period starts when care is provided and generally ends no earlier than 240 days after the first post-discharge bill is provided; date provided means sent or hand-delivered."
+      ],
+      "limitations": [
+        "Applies to covered tax-exempt hospital care. Specified notices can extend the application period; hospitals may accept later applications. eCFR is authoritative but unofficial."
+      ]
+    },
+    {
+      "id": "ecfr-fap-collection",
+      "title": "26 CFR 1.501(r)-6: Billing and collection protections",
+      "url": "https://www.ecfr.gov/current/title-26/section-1.501(r)-6",
+      "checked": "2026-10-09",
+      "supports": [
+        "Extraordinary collection action protections for timely complete and incomplete FAP applications, including missing-information notices and a reasonable chance to complete an application."
+      ],
+      "limitations": [
+        "These are protections against specified extraordinary collection actions, not a universal suspension of all billing contacts. Conditions and completion deadlines matter."
+      ]
+    }
+  ]
+}
