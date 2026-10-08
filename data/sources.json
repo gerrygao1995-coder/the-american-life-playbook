@@ -1,0 +1,2441 @@
+[
+  {
+    "chapter": "01",
+    "entry": "01.1",
+    "title": "CDC: Adult activity recommendations",
+    "url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html",
+    "checked": "2026-10-09",
+    "supports": "150 minutes moderate activity, two strengthening days, short sessions and some activity better than none.",
+    "limitation": "General adult guidance; individual abilities and medical conditions affect implementation."
+  },
+  {
+    "chapter": "01",
+    "entry": "01.2",
+    "title": "CDC: About sleep",
+    "url": "https://www.cdc.gov/sleep/about/",
+    "checked": "2026-10-09",
+    "supports": "Age-specific adult sleep durations, consistent schedules, avoiding late caffeine, and evaluation of ongoing sleep problems.",
+    "limitation": "Sleep needs vary; habits alone do not resolve all sleep disorders."
+  },
+  {
+    "chapter": "01",
+    "entry": "01.3",
+    "title": "Smokefree: Ways to quit smoking",
+    "url": "https://smokefree.gov/tools-tips/quit-methods",
+    "checked": "2026-10-09",
+    "supports": "Nicotine replacement and prescription medications can assist smoking cessation; approaches should suit the person.",
+    "limitation": "The page does not establish insurance coverage or a universal best medication."
+  },
+  {
+    "chapter": "01",
+    "entry": "01.4",
+    "title": "USPSTF: Recommended preventive services",
+    "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation-topics/uspstf-a-and-b-recommendations",
+    "checked": "2026-10-09",
+    "supports": "Preventive recommendations are specific to populations and risk factors.",
+    "limitation": "Not an insurance coverage guarantee or a personalized screening schedule."
+  },
+  {
+    "chapter": "01",
+    "entry": "01.4",
+    "title": "CDC: Vaccines recommended for adults",
+    "url": "https://www.cdc.gov/vaccines-adults/recommended-vaccines/",
+    "checked": "2026-10-09",
+    "supports": "Adult vaccination depends on age, life circumstances, and health conditions.",
+    "limitation": "Consult current linked schedules and a clinician; recommendations can change."
+  },
+  {
+    "chapter": "01",
+    "entry": "01.5",
+    "title": "NIDCR: Oral hygiene",
+    "url": "https://www.nidcr.nih.gov/health-info/oral-hygiene",
+    "checked": "2026-10-09",
+    "supports": "Twice-daily fluoride brushing, regular interdental cleaning, dental visits, and risk-adjusted care.",
+    "limitation": "Questions about treatment cost and alternatives are practical suggestions, not a clinical judgment on any procedure."
+  },
+  {
+    "chapter": "02",
+    "entry": "02.1",
+    "title": "988 Lifeline: Get support",
+    "url": "https://988lifeline.org/",
+    "checked": "2026-10-09",
+    "supports": "Call, text, and chat crisis support is free and available 24/7, including help for another person.",
+    "limitation": "Crisis counseling does not replace emergency medical response."
+  },
+  {
+    "chapter": "02",
+    "entry": "02.1",
+    "title": "911.gov: Calling 911",
+    "url": "https://www.911.gov/calling-911/",
+    "checked": "2026-10-09",
+    "supports": "911 is for situations needing immediate police, fire, or ambulance assistance.",
+    "limitation": "Service delivery and emergency response costs vary locally."
+  },
+  {
+    "chapter": "02",
+    "entry": "02.2",
+    "title": "HRSA: What is a health center?",
+    "url": "https://bphc.hrsa.gov/about-health-center-program/what-health-center",
+    "checked": "2026-10-09",
+    "supports": "Health centers address medical and behavioral health needs, adjust fees by income/family size, and serve people unable to pay.",
+    "limitation": "Specific services, availability, and charges must be checked with the clinic."
+  },
+  {
+    "chapter": "02",
+    "entry": "02.2",
+    "title": "HealthCare.gov: Getting medical care",
+    "url": "https://www.healthcare.gov/using-marketplace-coverage/getting-medical-care/",
+    "checked": "2026-10-09",
+    "supports": "Confirm provider network participation using plan directories, insurer contact, and the provider.",
+    "limitation": "Network status is specific to the exact plan and can change."
+  },
+  {
+    "chapter": "02",
+    "entry": "02.3",
+    "title": "NIAAA: Rethinking Drinking",
+    "url": "https://rethinkingdrinking.niaaa.nih.gov/",
+    "checked": "2026-10-09",
+    "supports": "Standard drinks depend on alcohol content; serving sizes can contain multiple drinks.",
+    "limitation": "Tracking is an editorial implementation suggestion, not treatment for dependence."
+  },
+  {
+    "chapter": "02",
+    "entry": "02.3",
+    "title": "NIAAA: Cut down or quit?",
+    "url": "https://rethinkingdrinking.niaaa.nih.gov/thinking-about-change/cut-down-or-quit",
+    "checked": "2026-10-09",
+    "supports": "Reasons to abstain and danger from sudden withdrawal after prolonged heavy drinking.",
+    "limitation": "Anyone at risk of withdrawal needs individualized medical support."
+  },
+  {
+    "chapter": "02",
+    "entry": "02.4",
+    "title": "CDC: Five things to know about naloxone",
+    "url": "https://www.cdc.gov/overdose-prevention/reversing-overdose/about-naloxone.html",
+    "checked": "2026-10-09",
+    "supports": "Naloxone access, overdose signs, emergency calls, and staying with the person; local low-cost access varies.",
+    "limitation": "Naloxone treats opioid effects; dispatcher-led resuscitation may still be necessary."
+  },
+  {
+    "chapter": "02",
+    "entry": "02.5",
+    "title": "NIMH: Caring for your mental health",
+    "url": "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health",
+    "checked": "2026-10-09",
+    "supports": "Self-care, social connection, and seeking help for persistent distress or impaired daily function; 911 for life-threatening situations.",
+    "limitation": "Self-care is supportive, not a substitute for assessment or treatment."
+  },
+  {
+    "chapter": "03",
+    "entry": "03.1",
+    "title": "911.gov: Calling 911",
+    "url": "https://www.911.gov/calling-911/",
+    "checked": "2026-10-09",
+    "supports": "Emergency callers should provide location, callback number, nature of emergency, and follow dispatcher instructions.",
+    "limitation": "Preparation suggestions do not promise response times or free transport."
+  },
+  {
+    "chapter": "03",
+    "entry": "03.2",
+    "title": "American Heart Association: What is CPR?",
+    "url": "https://cpr.heart.org/en/resources/what-is-cpr",
+    "checked": "2026-10-09",
+    "supports": "Hands-only CPR for witnessed sudden teen/adult collapse, conventional CPR, and AED use.",
+    "limitation": "Infants, children, drowning, and breathing-related collapse need additional training; this is not a complete course."
+  },
+  {
+    "chapter": "03",
+    "entry": "03.2",
+    "title": "American Heart Association: Recognizing when CPR is needed",
+    "url": "https://www.heart.org/en/news/2026/06/01/when-is-the-right-time-to-perform-cpr",
+    "checked": "2026-10-09",
+    "supports": "Recognition of unresponsiveness and abnormal breathing in suspected cardiac arrest.",
+    "limitation": "Call 911 and follow live guidance if unsure."
+  },
+  {
+    "chapter": "03",
+    "entry": "03.3",
+    "title": "CDC: Stroke signs and symptoms",
+    "url": "https://www.cdc.gov/stroke/signs-symptoms/index.html",
+    "checked": "2026-10-09",
+    "supports": "Sudden stroke signs require an emergency call; ambulance transport and symptom timing matter.",
+    "limitation": "Brief or unusual symptoms still need urgent professional evaluation."
+  },
+  {
+    "chapter": "03",
+    "entry": "03.3",
+    "title": "NHLBI: Heart attack symptoms",
+    "url": "https://www.nhlbi.nih.gov/health/heart-attack/symptoms",
+    "checked": "2026-10-09",
+    "supports": "Heart attack warning symptoms and calling 911 instead of driving.",
+    "limitation": "Symptoms vary; a symptom list cannot confirm or exclude a heart attack."
+  },
+  {
+    "chapter": "03",
+    "entry": "03.4",
+    "title": "HRSA Poison Help: What you can do",
+    "url": "https://poisonhelp.hrsa.gov/what-you-can-do",
+    "checked": "2026-10-09",
+    "supports": "Poison Help number, prompt calling before symptoms, product details, and avoiding activated charcoal without expert direction.",
+    "limitation": "A suspected life-threatening emergency requires 911, not a delayed poison-center consultation."
+  },
+  {
+    "chapter": "03",
+    "entry": "03.5",
+    "title": "American College of Surgeons: Stop the Bleed course FAQ",
+    "url": "https://www.stopthebleed.org/about/faq/",
+    "checked": "2026-10-09",
+    "supports": "Training teaches direct pressure, packing, and tourniquet use through hands-on practice.",
+    "limitation": "This short entry cannot substitute for the skills taught in a course."
+  },
+  {
+    "chapter": "03",
+    "entry": "03.5",
+    "title": "American College of Surgeons: Bleeding-control instructor guide",
+    "url": "https://www.stopthebleed.org/media/pkpnanvp/acs-stop-the-bleed-version-30-instructor-guide.pdf",
+    "checked": "2026-10-09",
+    "supports": "Scene safety, emergency activation, and firm steady direct pressure.",
+    "limitation": "Tourniquet and wound-packing decisions require training or live professional instruction."
+  },
+  {
+    "chapter": "04",
+    "entry": "04.1",
+    "title": "HealthCare.gov: Compare total health costs",
+    "url": "https://www.healthcare.gov/choose-a-plan/your-total-costs/",
+    "checked": "2026-10-09",
+    "supports": "Premiums, deductibles, cost sharing, annual cost comparison, and out-of-pocket maximum exclusions.",
+    "limitation": "Exact costs and covered services come from each plan's documents."
+  },
+  {
+    "chapter": "04",
+    "entry": "04.2",
+    "title": "HealthCare.gov: Special Enrollment Periods",
+    "url": "https://www.healthcare.gov/coverage-outside-open-enrollment/special-enrollment-period/",
+    "checked": "2026-10-09",
+    "supports": "Certain life events permit enrollment outside annual enrollment subject to eligibility and deadlines.",
+    "limitation": "Not every move, income change, or voluntary cancellation creates eligibility."
+  },
+  {
+    "chapter": "04",
+    "entry": "04.2",
+    "title": "HealthCare.gov: Medicaid and CHIP",
+    "url": "https://www.healthcare.gov/medicaid-chip/getting-medicaid-chip/",
+    "checked": "2026-10-09",
+    "supports": "Year-round applications and state-dependent Medicaid/CHIP eligibility.",
+    "limitation": "Eligibility and effective dates must be confirmed with the responsible agency."
+  },
+  {
+    "chapter": "04",
+    "entry": "04.3",
+    "title": "HealthCare.gov: Confirm your providers",
+    "url": "https://www.healthcare.gov/using-marketplace-coverage/getting-medical-care/",
+    "checked": "2026-10-09",
+    "supports": "Check network status through insurer and provider channels.",
+    "limitation": "Participation depends on the exact plan and service."
+  },
+  {
+    "chapter": "04",
+    "entry": "04.3",
+    "title": "CMS: Medical bill rights",
+    "url": "https://www.cms.gov/initiatives/your-patient-rights/medical-bill-rights",
+    "checked": "2026-10-09",
+    "supports": "No Surprises Act protections, self-pay estimates, and limits including ground ambulance exclusions.",
+    "limitation": "Protections differ by insurance, service, and jurisdiction; this is not a guarantee of free care."
+  },
+  {
+    "chapter": "04",
+    "entry": "04.4",
+    "title": "IRS: Hospital financial assistance policies",
+    "url": "https://www.irs.gov/charities-non-profits/financial-assistance-policies-faps",
+    "checked": "2026-10-09",
+    "supports": "Tax-exempt hospital policy requirements, eligibility criteria, and covered providers.",
+    "limitation": "Financial assistance and a billing hold are not guaranteed for every patient or separate clinician."
+  },
+  {
+    "chapter": "04",
+    "entry": "04.4",
+    "title": "CFPB: Reviewing and resolving medical bills",
+    "url": "https://www.consumerfinance.gov/archive/blog/seven-ways-to-keep-medical-debt-in-check/",
+    "checked": "2026-10-09",
+    "supports": "Itemized bills, documentation, financial assistance, and considering payment plans before credit cards.",
+    "limitation": "Archived article used for practical steps only, not current credit-reporting law or historical statistics."
+  },
+  {
+    "chapter": "04",
+    "entry": "04.5",
+    "title": "HealthCare.gov: Appealing an insurer's decision",
+    "url": "https://www.healthcare.gov/appeal-insurance-company-decision/",
+    "checked": "2026-10-09",
+    "supports": "Internal appeals, expedited review for urgent cases, and independent external review.",
+    "limitation": "Use the notice and the rules for your specific coverage; not every denial follows the same route."
+  },
+  {
+    "chapter": "05",
+    "entry": "05.1",
+    "title": "FDA: Create a medication list",
+    "url": "https://www.fda.gov/consumers/consumer-updates/create-and-keep-medication-list-your-health",
+    "checked": "2026-10-09",
+    "supports": "A complete medication list supports safer care and helps reduce errors.",
+    "limitation": "The list complements, rather than replaces, clinical review."
+  },
+  {
+    "chapter": "05",
+    "entry": "05.1",
+    "title": "FDA: Drug interactions",
+    "url": "https://www.fda.gov/drugs/resources-drugs/drug-interactions-what-you-should-know",
+    "checked": "2026-10-09",
+    "supports": "Prescription, OTC, food, alcohol, and supplement interactions; discuss products with clinicians.",
+    "limitation": "Interactions and missed-dose instructions are drug-specific."
+  },
+  {
+    "chapter": "05",
+    "entry": "05.2",
+    "title": "FDA: Generic drug facts",
+    "url": "https://www.fda.gov/drugs/generic-drugs/generic-drug-facts",
+    "checked": "2026-10-09",
+    "supports": "FDA generic approval standards, substitution, clinical benefit, and permitted differences.",
+    "limitation": "A generic is not the same as a different drug in the same class; pharmacist confirmation matters."
+  },
+  {
+    "chapter": "05",
+    "entry": "05.3",
+    "title": "NIDDK: Managing diabetes",
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/managing-diabetes/",
+    "checked": "2026-10-09",
+    "supports": "Individualized diabetes management and follow-up addressing blood pressure, cholesterol, kidney, eye, and foot health.",
+    "limitation": "Diabetes is the example; other conditions require their own clinical care plans."
+  },
+  {
+    "chapter": "05",
+    "entry": "05.4",
+    "title": "CDC: Measuring your blood pressure",
+    "url": "https://www.cdc.gov/high-blood-pressure/measure/",
+    "checked": "2026-10-09",
+    "supports": "Correct positioning, preparation, repeat measurements, and home blood-pressure monitoring.",
+    "limitation": "Monitoring frequency, treatment targets, and emergency thresholds require individualized instructions."
+  },
+  {
+    "chapter": "05",
+    "entry": "05.5",
+    "title": "CDC: Preventing falls and hip fractures",
+    "url": "https://www.cdc.gov/falls/prevention/index.html",
+    "checked": "2026-10-09",
+    "supports": "Medication review, exercise, vision checks, and home safety changes can reduce older-adult fall risk.",
+    "limitation": "Recommendations and suitable exercises must account for individual ability and health conditions."
+  },
+  {
+    "chapter": "06",
+    "entry": "06.1",
+    "title": "CDC: Planning for pregnancy",
+    "url": "https://www.cdc.gov/pregnancy/about/index.html",
+    "checked": "2026-10-09",
+    "supports": "Preconception health review, medications, folic acid, vaccinations, and substance avoidance.",
+    "limitation": "Individual circumstances can change supplementation and medication advice."
+  },
+  {
+    "chapter": "06",
+    "entry": "06.2",
+    "title": "HealthCare.gov: Pregnancy and newborn coverage",
+    "url": "https://www.healthcare.gov/what-if-im-pregnant-or-plan-to-get-pregnant/",
+    "checked": "2026-10-09",
+    "supports": "Marketplace birth enrollment, federal pregnancy eligibility rules, Medicaid/CHIP variation, and maternity/newborn benefits.",
+    "limitation": "Employer plans and state marketplaces can have different deadlines or rules; confirm directly."
+  },
+  {
+    "chapter": "06",
+    "entry": "06.3",
+    "title": "NICHD Safe to Sleep: Safe sleep environment",
+    "url": "https://safetosleep.nichd.nih.gov/reduce-risk/safe-sleep-environment",
+    "checked": "2026-10-09",
+    "supports": "Firm flat separate sleep surface, room sharing, and avoiding soft objects and unsafe sleep locations.",
+    "limitation": "Follow product safety standards and individualized clinical advice for medically complex infants."
+  },
+  {
+    "chapter": "06",
+    "entry": "06.3",
+    "title": "NICHD Safe to Sleep: Back sleeping",
+    "url": "https://safetosleep.nichd.nih.gov/reduce-risk/back-sleeping",
+    "checked": "2026-10-09",
+    "supports": "Place babies on their backs for every sleep and share this guidance with all caregivers.",
+    "limitation": "Once babies roll both ways independently they may remain in their chosen position after being placed on their backs."
+  },
+  {
+    "chapter": "06",
+    "entry": "06.4",
+    "title": "NHTSA: Car seats and booster seats",
+    "url": "https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats",
+    "checked": "2026-10-09",
+    "supports": "Choose by child size and vehicle fit, follow manuals, rear-face to limits, use back seat, and register for recalls.",
+    "limitation": "State legal minimums are distinct from safety recommendations; individual seat limits control."
+  },
+  {
+    "chapter": "06",
+    "entry": "06.5",
+    "title": "CDC: Urgent maternal warning signs",
+    "url": "https://www.cdc.gov/hearher/maternal-warning-signs/index.html",
+    "checked": "2026-10-09",
+    "supports": "Serious warning signs during pregnancy and the year after delivery require immediate medical attention.",
+    "limitation": "The examples are not exhaustive and a support hotline is not emergency medical care."
+  },
+  {
+    "chapter": "06",
+    "entry": "06.5",
+    "title": "HRSA: National Maternal Mental Health Hotline",
+    "url": "https://mchb.hrsa.gov/programs-impact/national-maternal-mental-health-hotline",
+    "checked": "2026-10-09",
+    "supports": "Free round-the-clock call/text support at 1-833-852-6262.",
+    "limitation": "Support does not replace assessment, ongoing treatment, or emergency response."
+  },
+  {
+    "chapter": "25",
+    "entry": "25.1",
+    "title": "NIDDK: Choosing a safe weight-loss program",
+    "url": "https://www.niddk.nih.gov/health-information/weight-management/choosing-a-safe-successful-weight-loss-program",
+    "checked": "2026-10-09",
+    "supports": "Realistic programs, ongoing support, full costs, and warning signs in weight-loss advertising.",
+    "limitation": "Appropriateness of weight loss and eating-disorder concerns require individual clinical judgment."
+  },
+  {
+    "chapter": "25",
+    "entry": "25.2",
+    "title": "NIDDK: Prescription weight-management medicines",
+    "url": "https://www.niddk.nih.gov/health-information/weight-management/prescription-medications-treat-overweight-obesity",
+    "checked": "2026-10-09",
+    "supports": "Common adult medication criteria, individualized prescribing, adverse effects, cost, and pregnancy considerations.",
+    "limitation": "Specific drug indications and coverage differ; criteria are not a prescription or insurance guarantee."
+  },
+  {
+    "chapter": "25",
+    "entry": "25.3",
+    "title": "American Academy of Dermatology: Prevent skin cancer",
+    "url": "https://www.aad.org/public/diseases/skin-cancer/how-to-prevent",
+    "checked": "2026-10-09",
+    "supports": "Shade, protective clothing, broad-spectrum SPF 30+ sunscreen, reapplication, and avoiding tanning beds.",
+    "limitation": "Sunscreen is part of protection, not permission for unlimited sun exposure."
+  },
+  {
+    "chapter": "25",
+    "entry": "25.4",
+    "title": "FDA: Dermal fillers",
+    "url": "https://www.fda.gov/medical-devices/aesthetic-cosmetic-devices/dermal-fillers-soft-tissue-fillers",
+    "checked": "2026-10-09",
+    "supports": "Licensed trained providers, product risks, avoiding self-injection and needle-free devices, and urgent complication symptoms.",
+    "limitation": "Approval applies to particular products and uses, not every injection or claimed outcome."
+  },
+  {
+    "chapter": "25",
+    "entry": "25.5",
+    "title": "American Dental Association: Veneers",
+    "url": "https://www.mouthhealthy.org/all-topics-a-z/veneers",
+    "checked": "2026-10-09",
+    "supports": "Irreversibility from enamel removal, suitability considerations, replacement, and possible cosmetic coverage exclusions.",
+    "limitation": "Individual preparation and alternatives depend on the dentist's examination."
+  },
+  {
+    "chapter": "26",
+    "entry": "26.1",
+    "title": "CDC: Condom use",
+    "url": "https://www.cdc.gov/condom-use/index.html",
+    "checked": "2026-10-09",
+    "supports": "Consistent correct barrier use reduces but does not eliminate STI risk.",
+    "limitation": "Protection varies by infection and exposed skin."
+  },
+  {
+    "chapter": "26",
+    "entry": "26.1",
+    "title": "CDC: Getting tested for STIs",
+    "url": "https://www.cdc.gov/sti/testing/",
+    "checked": "2026-10-09",
+    "supports": "Testing depends on sexual history and may include throat or rectal sites.",
+    "limitation": "Timing and repeat testing depend on exposure and test type."
+  },
+  {
+    "chapter": "26",
+    "entry": "26.2",
+    "title": "CDC: HIV post-exposure prophylaxis",
+    "url": "https://www.cdc.gov/stophivtogether/hiv-prevention/pep.html",
+    "checked": "2026-10-09",
+    "supports": "PEP should start within 72 hours; every hour counts; recurrent exposure may warrant PrEP.",
+    "limitation": "A clinician determines whether the exposure warrants PEP."
+  },
+  {
+    "chapter": "26",
+    "entry": "26.2",
+    "title": "CDC: Preventing HIV with PrEP",
+    "url": "https://www.cdc.gov/hiv/prevention/prep.html",
+    "checked": "2026-10-09",
+    "supports": "PrEP is for ongoing HIV prevention and requires clinical testing and follow-up; it does not prevent other STIs.",
+    "limitation": "Available formulations and appropriate regimens vary by individual."
+  },
+  {
+    "chapter": "26",
+    "entry": "26.3",
+    "title": "CDC: Contraception and birth-control methods",
+    "url": "https://www.cdc.gov/contraception/about/index.html",
+    "checked": "2026-10-09",
+    "supports": "Voluntary informed choice, method differences, STI limitations, and emergency contraception.",
+    "limitation": "Medical eligibility, availability, timing, and coverage must be checked for the individual."
+  },
+  {
+    "chapter": "26",
+    "entry": "26.4",
+    "title": "Office on Women's Health: Sexual assault",
+    "url": "https://womenshealth.gov/relationships-and-safety/sexual-assault-and-rape/sexual-assault",
+    "checked": "2026-10-09",
+    "supports": "Consent, inability to consent, assault response, medical care, and support resources.",
+    "limitation": "Consent and reporting laws vary by jurisdiction; this entry is behavioral guidance, not a legal definition."
+  },
+  {
+    "chapter": "26",
+    "entry": "26.5",
+    "title": "American Academy of Family Physicians: Unexpected pregnancy",
+    "url": "https://familydoctor.org/what-to-do-when-your-pregnancy-is-unexpected/",
+    "checked": "2026-10-09",
+    "supports": "Pregnancy confirmation, parenting/adoption/abortion options, noncoercive support, timing, and state variation.",
+    "limitation": "No state-specific legal eligibility or access guarantee is supplied; verify current local rules."
+  },
+  {
+    "chapter": "27",
+    "entry": "27.1",
+    "title": "NIH Clinical Center: Loss, grief, and bereavement",
+    "url": "https://clinical.nih.gov/introduction-loss-grief-and-bereavement",
+    "checked": "2026-10-09",
+    "supports": "Grief varies, affects emotion and thinking, and can make responsibilities difficult.",
+    "limitation": "Support suggestions are practical adaptations, not a fixed grief treatment schedule."
+  },
+  {
+    "chapter": "27",
+    "entry": "27.2",
+    "title": "CDC: Managing stress",
+    "url": "https://www.cdc.gov/mental-health/living-with/index.html",
+    "checked": "2026-10-09",
+    "supports": "Supportive contact, breaks from upsetting news, health routines, and additional help with distress.",
+    "limitation": "A minimum plan is an editorial tool, not a replacement for treatment or material assistance."
+  },
+  {
+    "chapter": "27",
+    "entry": "27.3",
+    "title": "NIOSH: Work-related psychosocial hazards",
+    "url": "https://www.cdc.gov/niosh/bulletin/2024/workplace-psychosocial-hazards.html",
+    "checked": "2026-10-09",
+    "supports": "Work organization, excessive demands, and psychosocial hazards affect worker health and require organizational action.",
+    "limitation": "A request does not establish legal eligibility or guarantee a particular workplace change."
+  },
+  {
+    "chapter": "27",
+    "entry": "27.4",
+    "title": "NIMH: Coping with traumatic events",
+    "url": "https://www.nimh.nih.gov/health/topics/coping-with-traumatic-events",
+    "checked": "2026-10-09",
+    "supports": "Seek help for symptoms that persist or interfere with life; treatment and crisis pathways are available.",
+    "limitation": "Not every setback is trauma or PTSD; assessment should not be replaced with self-labeling."
+  },
+  {
+    "chapter": "27",
+    "entry": "27.5",
+    "title": "NIH News in Health: Coping with grief",
+    "url": "https://newsinhealth.nih.gov/2017/10/coping-grief",
+    "checked": "2026-10-09",
+    "supports": "Grief support, practical help, and giving major life decisions time when possible.",
+    "limitation": "The two-list method is an editorial practice; specific legal deadlines are outside this source."
+  },
+  {
+    "chapter": "28",
+    "entry": "28.1",
+    "title": "NCCIH: Finding health information online",
+    "url": "https://www.nccih.nih.gov/health/know-science/finding-and-evaluating-online-resources/finding-health-information-online/introduction",
+    "checked": "2026-10-09",
+    "supports": "Check source, accuracy, expert review, currency, funding, and avoid relying on online information alone.",
+    "limitation": "A credible source still must be relevant to the individual decision."
+  },
+  {
+    "chapter": "28",
+    "entry": "28.1",
+    "title": "NCCIH: Checking accuracy",
+    "url": "https://www.nccih.nih.gov/health/know-science/finding-and-evaluating-online-resources/finding-health-information-online/how-do-you-know-the-information-is-accurate",
+    "checked": "2026-10-09",
+    "supports": "Evidence should support claims; distinguish research from anecdotal assertions.",
+    "limitation": "A brief consumer check is not a systematic evidence review."
+  },
+  {
+    "chapter": "28",
+    "entry": "28.2",
+    "title": "FDA: Dietary supplement basics",
+    "url": "https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements",
+    "checked": "2026-10-09",
+    "supports": "Premarket approval limitations, safety concerns, and avoiding substitution for prescribed care.",
+    "limitation": "Some supplements have valid indications; this is not a claim that every supplement is ineffective."
+  },
+  {
+    "chapter": "28",
+    "entry": "28.2",
+    "title": "FDA: Medicines and supplements",
+    "url": "https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health",
+    "checked": "2026-10-09",
+    "supports": "Supplements can interact with medicines and affect surgery or pregnancy-related care.",
+    "limitation": "Interaction and dosing advice is specific to the product and patient."
+  },
+  {
+    "chapter": "28",
+    "entry": "28.3",
+    "title": "FDA: Whole-body CT screening",
+    "url": "https://www.fda.gov/radiation-emitting-products/medical-x-ray-imaging/whole-body-ct-screening-should-i-or-shouldnt-i-get-one",
+    "checked": "2026-10-09",
+    "supports": "Lack of established benefit for asymptomatic whole-body CT, radiation exposure, and downstream testing.",
+    "limitation": "This legacy FDA page is used only for whole-body CT risks and limitations, not its outdated examples of disease-specific screening; current indicated screening differs."
+  },
+  {
+    "chapter": "28",
+    "entry": "28.4",
+    "title": "CDC: Antibiotic do's and don'ts",
+    "url": "https://www.cdc.gov/antibiotic-use/about/",
+    "checked": "2026-10-09",
+    "supports": "Antibiotics do not treat viruses; avoid unnecessary use, sharing, and saving; follow prescriptions.",
+    "limitation": "The correct diagnosis and treatment duration depend on the individual infection."
+  },
+  {
+    "chapter": "28",
+    "entry": "28.5",
+    "title": "AHRQ: Talk with your doctor",
+    "url": "https://www.ahrq.gov/questions/resources/diagnosis/step3.html",
+    "checked": "2026-10-09",
+    "supports": "Questions about diagnosis, treatment options, risks, test results, and second opinions.",
+    "limitation": "Do not delay emergency or time-sensitive care while seeking optional additional opinions."
+  },
+  {
+    "chapter": "07",
+    "entry": "07.1",
+    "title": "CFPB: Assess your spending",
+    "url": "https://www.consumerfinance.gov/owning-a-home/prepare/assess-your-spending/",
+    "checked": "2026-10-09",
+    "supports": "Actual spending and irregular expenses.",
+    "limitation": "Planning guidance; effort estimates and chosen routine are editorial."
+  },
+  {
+    "chapter": "07",
+    "entry": "07.1",
+    "title": "CFPB: Build an emergency fund",
+    "url": "https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/",
+    "checked": "2026-10-09",
+    "supports": "Emergency savings and managing cash flow.",
+    "limitation": "Planning guidance; effort estimates and chosen routine are editorial."
+  },
+  {
+    "chapter": "07",
+    "entry": "07.2",
+    "title": "CFPB: Build an emergency fund",
+    "url": "https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/",
+    "checked": "2026-10-09",
+    "supports": "Emergency savings targets and automation.",
+    "limitation": "No prescribed reserve amount; app protection depends on the actual arrangement."
+  },
+  {
+    "chapter": "07",
+    "entry": "07.2",
+    "title": "CFPB: Deposit insurance and payment apps",
+    "url": "https://www.consumerfinance.gov/data-research/research-reports/issue-spotlight-analysis-of-deposit-insurance-coverage-on-funds-stored-through-payment-apps/full-report/",
+    "checked": "2026-10-09",
+    "supports": "Payment-app deposit-insurance limitations.",
+    "limitation": "No prescribed reserve amount; app protection depends on the actual arrangement."
+  },
+  {
+    "chapter": "07",
+    "entry": "07.3",
+    "title": "CFPB: Compare checking fees and terms",
+    "url": "https://www.consumerfinance.gov/ask-cfpb/should-i-get-a-checking-account-that-pays-interest-en-925/",
+    "checked": "2026-10-09",
+    "supports": "Compare account fees and conditions.",
+    "limitation": "Account terms vary; opting out does not eliminate all overdraft fees."
+  },
+  {
+    "chapter": "07",
+    "entry": "07.3",
+    "title": "CFPB: Know your overdraft options",
+    "url": "https://www.consumerfinance.gov/consumer-tools/bank-accounts/know-your-overdraft-options/",
+    "checked": "2026-10-09",
+    "supports": "Overdraft choices and covered transaction categories.",
+    "limitation": "Account terms vary; opting out does not eliminate all overdraft fees."
+  },
+  {
+    "chapter": "07",
+    "entry": "07.4",
+    "title": "FTC: Free credit reports",
+    "url": "https://consumer.ftc.gov/articles/free-credit-reports",
+    "checked": "2026-10-09",
+    "supports": "Official free reports and dispute information.",
+    "limitation": "A freeze does not stop misuse of existing accounts."
+  },
+  {
+    "chapter": "07",
+    "entry": "07.4",
+    "title": "FTC: Credit freezes and fraud alerts",
+    "url": "https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts",
+    "checked": "2026-10-09",
+    "supports": "Free security freezes and their scope.",
+    "limitation": "A freeze does not stop misuse of existing accounts."
+  },
+  {
+    "chapter": "07",
+    "entry": "07.5",
+    "title": "CFPB: Rebuild your credit",
+    "url": "https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/how-to-rebuild-your-credit/",
+    "checked": "2026-10-09",
+    "supports": "Timely payments, manageable credit, and secured-card cautions.",
+    "limitation": "No score gain is promised; card agreements govern grace periods and fees."
+  },
+  {
+    "chapter": "08",
+    "entry": "08.1",
+    "title": "CFPB: Prioritizing bills worksheet",
+    "url": "https://files.consumerfinance.gov/f/documents/cfpb_your-money-your-goals_prioritizing-bills_tool.pdf",
+    "checked": "2026-10-09",
+    "supports": "Prioritize bills by consequences and contact creditors.",
+    "limitation": "Court deadlines and local legal rights require separate attention."
+  },
+  {
+    "chapter": "08",
+    "entry": "08.2",
+    "title": "CFPB: Debt action plan",
+    "url": "https://files.consumerfinance.gov/f/documents/cfpb_your-money-your-goals_debt-action-plan_tool_2018-11.pdf",
+    "checked": "2026-10-09",
+    "supports": "Highest-interest and smallest-balance debt approaches.",
+    "limitation": "Applies after essentials and required payments; adherence and costs differ."
+  },
+  {
+    "chapter": "08",
+    "entry": "08.3",
+    "title": "CFPB: Debt validation notices",
+    "url": "https://www.consumerfinance.gov/ask-cfpb/what-information-does-a-debt-collector-have-to-give-me-about-the-debt-en-331/",
+    "checked": "2026-10-09",
+    "supports": "Validation notice and timely written disputes.",
+    "limitation": "Federal collector coverage and state limitation rules differ; court deadlines remain separate."
+  },
+  {
+    "chapter": "08",
+    "entry": "08.3",
+    "title": "CFPB: Lowering debt and old-debt cautions",
+    "url": "https://www.consumerfinance.gov/documents/10044/cfpb_lowering-your-debt_tool_2021-08.pdf",
+    "checked": "2026-10-09",
+    "supports": "Old-debt and payment cautions.",
+    "limitation": "Federal collector coverage and state limitation rules differ; court deadlines remain separate."
+  },
+  {
+    "chapter": "08",
+    "entry": "08.4",
+    "title": "CFPB: Choosing credit counseling",
+    "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-credit-counseling-en-1451/",
+    "checked": "2026-10-09",
+    "supports": "Selecting and evaluating credit counselors.",
+    "limitation": "Nonprofit status alone is not a guarantee; agreements and fees vary."
+  },
+  {
+    "chapter": "08",
+    "entry": "08.4",
+    "title": "CFPB: Debt-relief risks",
+    "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-relief-program-and-how-do-i-know-if-i-should-use-one-en-1457/",
+    "checked": "2026-10-09",
+    "supports": "Debt-relief consequences and alternatives.",
+    "limitation": "Nonprofit status alone is not a guarantee; agreements and fees vary."
+  },
+  {
+    "chapter": "08",
+    "entry": "08.5",
+    "title": "FTC: What to do if you were scammed",
+    "url": "https://consumer.ftc.gov/articles/what-do-if-you-were-scammed",
+    "checked": "2026-10-09",
+    "supports": "Payment-method-specific recovery steps.",
+    "limitation": "Recovery is not guaranteed and speed does not create reimbursement rights."
+  },
+  {
+    "chapter": "08",
+    "entry": "08.5",
+    "title": "FTC: Refund and recovery scams",
+    "url": "https://consumer.ftc.gov/articles/refund-and-recovery-scams",
+    "checked": "2026-10-09",
+    "supports": "Recovery scams and upfront-fee demands.",
+    "limitation": "Recovery is not guaranteed and speed does not create reimbursement rights."
+  },
+  {
+    "chapter": "09",
+    "entry": "09.1",
+    "title": "Department of Labor: Understand your retirement plan",
+    "url": "https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/publications/your-retirement-benefits.pdf",
+    "checked": "2026-10-09",
+    "supports": "Plan eligibility, contributions, vesting, and plan documents.",
+    "limitation": "Employer-plan and ERISA scope varies; confirm the actual plan."
+  },
+  {
+    "chapter": "09",
+    "entry": "09.2",
+    "title": "Investor.gov: Index funds",
+    "url": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds-and-exchange-traded-4",
+    "checked": "2026-10-09",
+    "supports": "Index-fund structure, costs, and limitations.",
+    "limitation": "Diversification and low fees do not guarantee suitability or returns."
+  },
+  {
+    "chapter": "09",
+    "entry": "09.2",
+    "title": "Investor.gov: Target-date funds",
+    "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/target-date-funds-investor-bulletin",
+    "checked": "2026-10-09",
+    "supports": "Target-date allocation and differences between funds.",
+    "limitation": "Diversification and low fees do not guarantee suitability or returns."
+  },
+  {
+    "chapter": "09",
+    "entry": "09.3",
+    "title": "Investor.gov: Asset allocation and diversification",
+    "url": "https://www.investor.gov/introduction-investing/getting-started/asset-allocation",
+    "checked": "2026-10-09",
+    "supports": "Time horizon, risk tolerance, allocation, and diversification.",
+    "limitation": "Investment losses remain possible; costs and taxes depend on accounts."
+  },
+  {
+    "chapter": "09",
+    "entry": "09.4",
+    "title": "IRS: Traditional and Roth IRAs",
+    "url": "https://www.irs.gov/retirement-plans/traditional-and-roth-iras",
+    "checked": "2026-10-09",
+    "supports": "Traditional and Roth IRA eligibility and tax treatment.",
+    "limitation": "Current-year limits and personal circumstances must be checked."
+  },
+  {
+    "chapter": "09",
+    "entry": "09.4",
+    "title": "IRS: Retirement-plan and IRA rollovers",
+    "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/rollovers-of-retirement-plan-and-ira-distributions",
+    "checked": "2026-10-09",
+    "supports": "Rollovers, transfers, and tax consequences.",
+    "limitation": "Current-year limits and personal circumstances must be checked."
+  },
+  {
+    "chapter": "09",
+    "entry": "09.5",
+    "title": "IRS: HSA eligibility and qualified expenses",
+    "url": "https://www.irs.gov/publications/p969",
+    "checked": "2026-10-09",
+    "supports": "HSA contribution eligibility, expenses, and documentation.",
+    "limitation": "Read older publication guidance with subsequent IRS updates; state taxes may differ."
+  },
+  {
+    "chapter": "09",
+    "entry": "09.5",
+    "title": "IRS: Expanded HSA eligibility guidance",
+    "url": "https://www.irs.gov/newsroom/treasury-irs-provide-guidance-on-new-tax-benefits-for-health-savings-account-participants-under-the-one-big-beautiful-bill",
+    "checked": "2026-10-09",
+    "supports": "Expanded eligibility effective in 2026.",
+    "limitation": "Read older publication guidance with subsequent IRS updates; state taxes may differ."
+  },
+  {
+    "chapter": "10",
+    "entry": "10.1",
+    "title": "IRS: File your taxes for free",
+    "url": "https://www.irs.gov/file-your-taxes-for-free",
+    "checked": "2026-10-09",
+    "supports": "Free File, fillable forms, VITA, and TCE routes.",
+    "limitation": "Annual eligibility, supported returns, state costs, and availability vary."
+  },
+  {
+    "chapter": "10",
+    "entry": "10.2",
+    "title": "IRS: Tax Withholding Estimator",
+    "url": "https://www.irs.gov/individuals/tax-withholding-estimator",
+    "checked": "2026-10-09",
+    "supports": "Withholding estimator, documents, and life changes.",
+    "limitation": "Tool limitations and payroll processing matter; federal withholding only."
+  },
+  {
+    "chapter": "10",
+    "entry": "10.3",
+    "title": "IRS: Credits and deductions for individuals",
+    "url": "https://www.irs.gov/credits-and-deductions-for-individuals",
+    "checked": "2026-10-09",
+    "supports": "Individual credit and deduction categories and eligibility links.",
+    "limitation": "No particular credit is promised; use rules for the applicable tax year."
+  },
+  {
+    "chapter": "10",
+    "entry": "10.4",
+    "title": "IRS: How long to keep records",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/how-long-should-i-keep-records",
+    "checked": "2026-10-09",
+    "supports": "Different record-retention periods and property documentation.",
+    "limitation": "Other legal, state, and practical retention requirements can apply."
+  },
+  {
+    "chapter": "10",
+    "entry": "10.5",
+    "title": "IRS: Tax scams",
+    "url": "https://www.irs.gov/help/tax-scams",
+    "checked": "2026-10-09",
+    "supports": "IRS impersonation and payment scam warnings.",
+    "limitation": "Federal arrangements do not resolve state balances; current eligibility controls."
+  },
+  {
+    "chapter": "10",
+    "entry": "10.5",
+    "title": "IRS: Payment plans and installment agreements",
+    "url": "https://www.irs.gov/payments/payment-plans-installment-agreements",
+    "checked": "2026-10-09",
+    "supports": "Payment-plan options, fees, and ongoing charges.",
+    "limitation": "Federal arrangements do not resolve state balances; current eligibility controls."
+  },
+  {
+    "chapter": "11",
+    "entry": "11.1",
+    "title": "CFPB: Decide how much to spend on housing",
+    "url": "https://www.consumerfinance.gov/owning-a-home/prepare/figure-out-how-much-you-want-to-spend/",
+    "checked": "2026-10-09",
+    "supports": "Full ownership costs, reserves, and affordability.",
+    "limitation": "Rental and transportation comparisons are editorial applications of budgeting guidance."
+  },
+  {
+    "chapter": "11",
+    "entry": "11.2",
+    "title": "USAGov: Tenant rights and local help",
+    "url": "https://www.usa.gov/tenant-rights",
+    "checked": "2026-10-09",
+    "supports": "Lease review and state tenant-help routes.",
+    "limitation": "Deposit, repair, entry, and eviction rules are state and local."
+  },
+  {
+    "chapter": "11",
+    "entry": "11.3",
+    "title": "USAGov: Housing discrimination complaints",
+    "url": "https://www.usa.gov/housing-discrimination-complaints",
+    "checked": "2026-10-09",
+    "supports": "Federal protected grounds and complaint routes.",
+    "limitation": "Exemptions, deadlines, housing type, and additional local protections matter."
+  },
+  {
+    "chapter": "11",
+    "entry": "11.4",
+    "title": "CFPB: Review Loan Estimates",
+    "url": "https://www.consumerfinance.gov/owning-a-home/compare/review-loan-estimates/",
+    "checked": "2026-10-09",
+    "supports": "Comparing Loan Estimates and loan terms.",
+    "limitation": "Disclosure requirements differ for some products; lender charges and locks vary."
+  },
+  {
+    "chapter": "11",
+    "entry": "11.5",
+    "title": "CFPB: Shop for homeowners insurance",
+    "url": "https://www.consumerfinance.gov/owning-a-home/close/shop-for-homeowners-insurance/",
+    "checked": "2026-10-09",
+    "supports": "Property insurance comparison and exclusions.",
+    "limitation": "Property-specific underwriting, exclusions, deductibles, and availability control."
+  },
+  {
+    "chapter": "11",
+    "entry": "11.5",
+    "title": "CFPB: Housing costs and disaster risk",
+    "url": "https://www.consumerfinance.gov/owning-a-home/prepare/figure-out-how-much-you-want-to-spend/",
+    "checked": "2026-10-09",
+    "supports": "Housing expenses and disaster exposure.",
+    "limitation": "Property-specific underwriting, exclusions, deductibles, and availability control."
+  },
+  {
+    "chapter": "12",
+    "entry": "12.1",
+    "title": "CFPB: Calculate car and loan affordability",
+    "url": "https://www.consumerfinance.gov/ask-cfpb/how-much-can-i-afford-to-borrow-for-a-car-or-auto-loan-en-751/",
+    "checked": "2026-10-09",
+    "supports": "Vehicle costs, financing, and affordability.",
+    "limitation": "Operating costs and resale values are estimates, not guaranteed outcomes."
+  },
+  {
+    "chapter": "12",
+    "entry": "12.2",
+    "title": "FTC: Buying a used car from a dealer",
+    "url": "https://consumer.ftc.gov/articles/buying-used-car-dealer",
+    "checked": "2026-10-09",
+    "supports": "Independent inspections, dealer Buyers Guides, and return limits.",
+    "limitation": "Dealer-focused federal guidance; private sales and state protections differ."
+  },
+  {
+    "chapter": "12",
+    "entry": "12.3",
+    "title": "NAIC: Auto insurance coverage and shopping",
+    "url": "https://content.naic.org/consumer/auto-insurance.htm",
+    "checked": "2026-10-09",
+    "supports": "Auto coverage categories, deductibles, and comparison shopping.",
+    "limitation": "State requirements, lender requirements, and policy terms differ."
+  },
+  {
+    "chapter": "12",
+    "entry": "12.4",
+    "title": "NHTSA: Check for recalls and alerts",
+    "url": "https://www.nhtsa.gov/recalls",
+    "checked": "2026-10-09",
+    "supports": "VIN recall search, remedies, alerts, and lookup limitations.",
+    "limitation": "A clear result is not a complete mechanical or safety assessment."
+  },
+  {
+    "chapter": "12",
+    "entry": "12.5",
+    "title": "FTC: Auto warranties and service contracts",
+    "url": "https://consumer.ftc.gov/articles/auto-warranties-and-auto-service-contracts",
+    "checked": "2026-10-09",
+    "supports": "Service-contract terms and warranty overlap.",
+    "limitation": "Contract and applicable law control refunds; no universal cancellation rule asserted."
+  },
+  {
+    "chapter": "12",
+    "entry": "12.5",
+    "title": "FTC: Free trials and recurring subscriptions",
+    "url": "https://consumer.ftc.gov/articles/getting-and-out-free-trials-auto-renewals-and-negative-option-subscriptions",
+    "checked": "2026-10-09",
+    "supports": "Trials, renewals, cancellation records, and billing.",
+    "limitation": "Contract and applicable law control refunds; no universal cancellation rule asserted."
+  },
+  {
+    "chapter": "29",
+    "entry": "29.1",
+    "title": "NAIC life insurance guide",
+    "url": "https://content.naic.org/consumer/life-insurance.htm",
+    "checked": "2026-10-09",
+    "supports": "Life-insurance needs, term coverage, and beneficiaries.",
+    "limitation": "Underwriting and policy terms differ; salary multiples are not individualized needs assessments."
+  },
+  {
+    "chapter": "29",
+    "entry": "29.2",
+    "title": "DOL disability benefits explanation",
+    "url": "https://webapps.dol.gov/elaws/ebsa/health/67.asp",
+    "checked": "2026-10-09",
+    "supports": "Disability-plan definitions and reviewing plan documents.",
+    "limitation": "Specific waiting periods, offsets, taxes, and benefit amounts must be verified in the plan."
+  },
+  {
+    "chapter": "29",
+    "entry": "29.3",
+    "title": "NAIC explanation of umbrella insurance",
+    "url": "https://content.naic.org/article/whats-umbrella-policy",
+    "checked": "2026-10-09",
+    "supports": "Umbrella liability scope and underlying coverage.",
+    "limitation": "Coverage, defense treatment, limits, and exclusions are contractual."
+  },
+  {
+    "chapter": "29",
+    "entry": "29.4",
+    "title": "NAIC guide to common insurance exclusions",
+    "url": "https://content.naic.org/article/consumer-insight-my-insurance-doesnt-cover-what",
+    "checked": "2026-10-09",
+    "supports": "Common property exclusions including flood and earthquake.",
+    "limitation": "Separate coverage and endorsements vary; exclusions are not universal without exceptions."
+  },
+  {
+    "chapter": "29",
+    "entry": "29.5",
+    "title": "NAIC policy review checklist",
+    "url": "https://content.naic.org/article/consumer-insight-it-time-review-your-policies",
+    "checked": "2026-10-09",
+    "supports": "Annual and life-event policy reviews.",
+    "limitation": "Confirm effective coverage and property values with the insurer."
+  },
+  {
+    "chapter": "29",
+    "entry": "29.5",
+    "title": "NAIC homeowners insurance guide",
+    "url": "https://content.naic.org/consumer/homeowners-insurance.htm",
+    "checked": "2026-10-09",
+    "supports": "Home inventory and replacement cost versus actual cash value.",
+    "limitation": "Confirm effective coverage and property values with the insurer."
+  },
+  {
+    "chapter": "30",
+    "entry": "30.1",
+    "title": "CFPB guide to deciding when to buy",
+    "url": "https://www.consumerfinance.gov/owning-a-home/prepare/consider-whether-its-the-right-time-for-you-to-buy/",
+    "checked": "2026-10-09",
+    "supports": "Ownership horizon, transaction costs, and uncertainty.",
+    "limitation": "Scenario calculations are editorial planning, not price or return forecasts."
+  },
+  {
+    "chapter": "30",
+    "entry": "30.2",
+    "title": "Consumer.gov budgeting guide",
+    "url": "https://consumer.gov/your-money/making-budget",
+    "checked": "2026-10-09",
+    "supports": "Budgeting income and actual expenses.",
+    "limitation": "Directory does not resolve residency or remote-work rules; consult relevant states."
+  },
+  {
+    "chapter": "30",
+    "entry": "30.2",
+    "title": "IRS directory of state government tax resources",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/state-government-websites",
+    "checked": "2026-10-09",
+    "supports": "Directory to official state tax resources.",
+    "limitation": "Directory does not resolve residency or remote-work rules; consult relevant states."
+  },
+  {
+    "chapter": "30",
+    "entry": "30.3",
+    "title": "FMCSA mover selection",
+    "url": "https://www.fmcsa.dot.gov/protect-your-move/select-mover",
+    "checked": "2026-10-09",
+    "supports": "Interstate mover registration and selection.",
+    "limitation": "Federal household-moving guidance; intrastate moves use state oversight."
+  },
+  {
+    "chapter": "30",
+    "entry": "30.3",
+    "title": "FMCSA moving estimates",
+    "url": "https://www.fmcsa.dot.gov/consumer-protection/protect-your-move/how-can-i-avoid-unexpected-moving-costs",
+    "checked": "2026-10-09",
+    "supports": "Written moving estimates and extra-cost issues.",
+    "limitation": "Federal household-moving guidance; intrastate moves use state oversight."
+  },
+  {
+    "chapter": "30",
+    "entry": "30.4",
+    "title": "EPA transportation alternatives",
+    "url": "https://www.epa.gov/transportation-air-pollution-and-climate-change/what-you-can-do-reduce-pollution-vehicles-and",
+    "checked": "2026-10-09",
+    "supports": "Transit, walking, cycling, carpooling, and less driving.",
+    "limitation": "Cost comparison and trial are editorial; accessibility and safety are local."
+  },
+  {
+    "chapter": "30",
+    "entry": "30.5",
+    "title": "Consumer.gov guide to budgeting and saving for goals",
+    "url": "https://consumer.gov/your-money/making-budget",
+    "checked": "2026-10-09",
+    "supports": "Budgeting and saving toward large goals.",
+    "limitation": "Household commitments, care costs, and benefits require individual quotes and documents."
+  },
+  {
+    "chapter": "31",
+    "entry": "31.1",
+    "title": "CSLB contractor verification guide",
+    "url": "https://www.cslb.ca.gov/Consumers/Hire_A_Contractor/Finding_The_Right_Contractor.aspx",
+    "checked": "2026-10-09",
+    "supports": "Contractor license, insurance, references, and comparable bids.",
+    "limitation": "California example; use licensing and permit requirements where the work occurs."
+  },
+  {
+    "chapter": "31",
+    "entry": "31.2",
+    "title": "CSLB guide to home improvement contracts",
+    "url": "https://www.cslb.ca.gov/Consumers/Hire_A_Contractor/Home_Improvement_Contracts/What_Is_A_Contract.aspx",
+    "checked": "2026-10-09",
+    "supports": "Written scope, payment schedule, permits, warranties, and change orders.",
+    "limitation": "Legal requirements and thresholds on this source apply to California only."
+  },
+  {
+    "chapter": "31",
+    "entry": "31.3",
+    "title": "FTC solar buying guide",
+    "url": "https://consumer.ftc.gov/articles/solar-power-your-home",
+    "checked": "2026-10-09",
+    "supports": "Solar ownership, financing, and contract comparison.",
+    "limitation": "No tax-credit amount or eligibility promised; older FTC tax passages require current agency verification."
+  },
+  {
+    "chapter": "31",
+    "entry": "31.3",
+    "title": "DOE current savings programs",
+    "url": "https://www.energy.gov/save",
+    "checked": "2026-10-09",
+    "supports": "Current energy savings and rebate program routes.",
+    "limitation": "No tax-credit amount or eligibility promised; older FTC tax passages require current agency verification."
+  },
+  {
+    "chapter": "31",
+    "entry": "31.4",
+    "title": "FCC broadband map guide",
+    "url": "https://help.bdc.fcc.gov/hc/en-us/articles/10467446103579-How-to-Use-the-FCC-s-National-Broadband-Map",
+    "checked": "2026-10-09",
+    "supports": "Provider-reported availability and use of the FCC map.",
+    "limitation": "No universal performance or itemized-fee mandate asserted; verify exact offer and address."
+  },
+  {
+    "chapter": "31",
+    "entry": "31.4",
+    "title": "Fairfax County explanation of broadband labels",
+    "url": "https://www.fairfaxcounty.gov/cableconsumer/cable/frequently-asked-questions",
+    "checked": "2026-10-09",
+    "supports": "Broadband labels and interpreting service information.",
+    "limitation": "No universal performance or itemized-fee mandate asserted; verify exact offer and address."
+  },
+  {
+    "chapter": "31",
+    "entry": "31.5",
+    "title": "DOE appliance purchase and operating costs",
+    "url": "https://www.energy.gov/sites/default/files/2021-08/ES-KitchenAppliances_080221.pdf",
+    "checked": "2026-10-09",
+    "supports": "Appliance purchase cost, operating cost, and energy comparisons.",
+    "limitation": "Repair thresholds and remaining useful life are not guaranteed; compare actual quotes."
+  },
+  {
+    "chapter": "32",
+    "entry": "32.1",
+    "title": "IRS RMD questions and answers",
+    "url": "https://www.irs.gov/retirement-plans/retirement-plan-and-ira-required-minimum-distributions-faqs",
+    "checked": "2026-10-09",
+    "supports": "Account-specific RMD obligations, Roth owners, and inherited accounts.",
+    "limitation": "Current law, account type, employment, and beneficiary facts govern deadlines."
+  },
+  {
+    "chapter": "32",
+    "entry": "32.2",
+    "title": "PBGC benefit options",
+    "url": "https://www.pbgc.gov/workers-retirees/learn/benefit-options",
+    "checked": "2026-10-09",
+    "supports": "Pension forms, survivor benefits, and final elections.",
+    "limitation": "PBGC-managed-plan rules are specifically scoped; confirm other plan terms separately."
+  },
+  {
+    "chapter": "32",
+    "entry": "32.3",
+    "title": "SEC guide to annuities",
+    "url": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/annuities",
+    "checked": "2026-10-09",
+    "supports": "Annuity types, charges, guarantees, and insurer claims-paying ability.",
+    "limitation": "Product, tax, state protections, and contract conditions differ; no return is promised."
+  },
+  {
+    "chapter": "32",
+    "entry": "32.4",
+    "title": "SEC guide to investment advisers",
+    "url": "https://www.investor.gov/introduction-investing/getting-started/working-investment-professional/investment-advisers",
+    "checked": "2026-10-09",
+    "supports": "Adviser duties, fees, conflicts, registration, and disclosure documents.",
+    "limitation": "Registration and fiduciary duties do not establish suitability or eliminate conflicts."
+  },
+  {
+    "chapter": "32",
+    "entry": "32.5",
+    "title": "SEC guidance on managing lifetime income",
+    "url": "https://www.investor.gov/additional-resources/retirement-toolkit/managing-lifetime-income",
+    "checked": "2026-10-09",
+    "supports": "Lifetime income, longevity, asset allocation, and retirement uncertainty.",
+    "limitation": "Stress tests are editorial practice; no withdrawal rate or success probability is promised."
+  },
+  {
+    "chapter": 13,
+    "entry": "13.1",
+    "title": "USAGov overtime pay",
+    "url": "https://www.usa.gov/overtime-pay",
+    "checked": "2026-10-09",
+    "supports": "Federal overtime coverage and exemption criteria; personal timekeeping is editorial practice.",
+    "limitation": "Federal baseline; state rules and exemption facts differ."
+  },
+  {
+    "chapter": 13,
+    "entry": "13.1",
+    "title": "DOL exemption guidance",
+    "url": "https://webapps.dol.gov/elaws/whd/flsa/screen75.asp",
+    "checked": "2026-10-09",
+    "supports": "Federal overtime coverage and exemption criteria; personal timekeeping is editorial practice.",
+    "limitation": "Federal baseline; state rules and exemption facts differ."
+  },
+  {
+    "chapter": 13,
+    "entry": "13.2",
+    "title": "USAGov FMLA benefits and eligibility",
+    "url": "https://www.usa.gov/family-leave-act",
+    "checked": "2026-10-09",
+    "supports": "FMLA eligibility and unpaid protected leave; other benefits need separate checks.",
+    "limitation": "Covered employers and eligible workers only; special rules exist."
+  },
+  {
+    "chapter": 13,
+    "entry": "13.3",
+    "title": "Workers' compensation",
+    "url": "https://www.usa.gov/workers-compensation",
+    "checked": "2026-10-09",
+    "supports": "State workers compensation routes and OSHA worker complaint protections.",
+    "limitation": "OSHA safety complaints do not decide workers compensation benefits."
+  },
+  {
+    "chapter": 13,
+    "entry": "13.3",
+    "title": "OSHA worker protections",
+    "url": "https://www.osha.gov/workers",
+    "checked": "2026-10-09",
+    "supports": "State workers compensation routes and OSHA worker complaint protections.",
+    "limitation": "OSHA safety complaints do not decide workers compensation benefits."
+  },
+  {
+    "chapter": 13,
+    "entry": "13.4",
+    "title": "EEOC reasonable accommodations",
+    "url": "https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada",
+    "checked": "2026-10-09",
+    "supports": "ADA accommodations and EEOC filing deadlines independent of internal grievances.",
+    "limitation": "Employer coverage, qualifications, hardship, and federal employee processes differ."
+  },
+  {
+    "chapter": 13,
+    "entry": "13.4",
+    "title": "EEOC filing deadlines",
+    "url": "https://www.eeoc.gov/time-limits-filing-charge",
+    "checked": "2026-10-09",
+    "supports": "ADA accommodations and EEOC filing deadlines independent of internal grievances.",
+    "limitation": "Employer coverage, qualifications, hardship, and federal employee processes differ."
+  },
+  {
+    "chapter": 13,
+    "entry": "13.5",
+    "title": "IRS guide to Summary Plan Descriptions",
+    "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/401k-resource-guide-plan-participants-summary-plan-description",
+    "checked": "2026-10-09",
+    "supports": "Retirement plan Summary Plan Descriptions explain participant benefit rules.",
+    "limitation": "Compensation worksheet is a planning practice; governing plan controls."
+  },
+  {
+    "chapter": 14,
+    "entry": "14.1",
+    "title": "USAGov unemployment benefits",
+    "url": "https://www.usa.gov/unemployment-benefits",
+    "checked": "2026-10-09",
+    "supports": "State unemployment applications, eligibility decisions, and continuing requirements.",
+    "limitation": "No eligibility promise; remote or multistate work needs agency guidance."
+  },
+  {
+    "chapter": 14,
+    "entry": "14.2",
+    "title": "HealthCare.gov COBRA transitions",
+    "url": "https://www.healthcare.gov/unemployed/cobra-coverage/",
+    "checked": "2026-10-09",
+    "supports": "Marketplace loss-of-coverage opportunity and COBRA transition limitations.",
+    "limitation": "Plan-specific COBRA timing and household eligibility require confirmation."
+  },
+  {
+    "chapter": 14,
+    "entry": "14.2",
+    "title": "Coverage options after job loss",
+    "url": "https://www.healthcare.gov/unemployed/coverage/",
+    "checked": "2026-10-09",
+    "supports": "Marketplace loss-of-coverage opportunity and COBRA transition limitations.",
+    "limitation": "Plan-specific COBRA timing and household eligibility require confirmation."
+  },
+  {
+    "chapter": 14,
+    "entry": "14.3",
+    "title": "USAGov benefits directory",
+    "url": "https://www.usa.gov/benefits",
+    "checked": "2026-10-09",
+    "supports": "Government directories for food, health, and energy assistance.",
+    "limitation": "Program household definitions, availability, and state eligibility differ."
+  },
+  {
+    "chapter": 14,
+    "entry": "14.3",
+    "title": "Energy-bill assistance",
+    "url": "https://www.usa.gov/help-with-energy-bills",
+    "checked": "2026-10-09",
+    "supports": "Government directories for food, health, and energy assistance.",
+    "limitation": "Program household definitions, availability, and state eligibility differ."
+  },
+  {
+    "chapter": 14,
+    "entry": "14.4",
+    "title": "DOL severance pay",
+    "url": "https://www.dol.gov/index.php/general/topic/benefits-other/severancepay",
+    "checked": "2026-10-09",
+    "supports": "Federal FLSA severance limits and legal significance of discrimination waivers.",
+    "limitation": "State law, agreements, facts, and release terms can alter rights."
+  },
+  {
+    "chapter": 14,
+    "entry": "14.4",
+    "title": "EEOC severance waivers",
+    "url": "https://www.eeoc.gov/laws/guidance/qa-understanding-waivers-discrimination-claims-employee-severance-agreements",
+    "checked": "2026-10-09",
+    "supports": "Federal FLSA severance limits and legal significance of discrimination waivers.",
+    "limitation": "State law, agreements, facts, and release terms can alter rights."
+  },
+  {
+    "chapter": 14,
+    "entry": "14.5",
+    "title": "USAGov emergency housing and 211 referrals",
+    "url": "https://www.usa.gov/emergency-housing",
+    "checked": "2026-10-09",
+    "supports": "Local housing referral options and civil legal-help directories.",
+    "limitation": "Referrals do not guarantee housing, funding, counsel, or deadline extensions."
+  },
+  {
+    "chapter": 14,
+    "entry": "14.5",
+    "title": "Legal-aid directory",
+    "url": "https://www.usa.gov/legal-aid",
+    "checked": "2026-10-09",
+    "supports": "Local housing referral options and civil legal-help directories.",
+    "limitation": "Referrals do not guarantee housing, funding, counsel, or deadline extensions."
+  },
+  {
+    "chapter": 15,
+    "entry": "15.1",
+    "title": "UC transfer preparation and course checks",
+    "url": "https://admission.universityofcalifornia.edu/admission-requirements/transfer-requirements/preparing-to-transfer/basic-requirements.html",
+    "checked": "2026-10-09",
+    "supports": "Transfer articulation and major requirements illustrated by UC guidance.",
+    "limitation": "California example only; receiving institution decides transfer application."
+  },
+  {
+    "chapter": 15,
+    "entry": "15.2",
+    "title": "Apprenticeship.gov career-seeker guide",
+    "url": "https://www.apprenticeship.gov/career-seekers",
+    "checked": "2026-10-09",
+    "supports": "Registered Apprenticeship paid employment and structured training features.",
+    "limitation": "Admission, equipment costs, schedules, and local openings vary."
+  },
+  {
+    "chapter": 15,
+    "entry": "15.3",
+    "title": "Department of Education college-cost tools",
+    "url": "https://collegecost.ed.gov/",
+    "checked": "2026-10-09",
+    "supports": "Federal college comparison and net-price tools.",
+    "limitation": "Historical outcome averages do not predict individual future earnings."
+  },
+  {
+    "chapter": 15,
+    "entry": "15.4",
+    "title": "Federal Student Aid deadlines",
+    "url": "https://studentaid.gov/articles/3-fafsa-deadlines/",
+    "checked": "2026-10-09",
+    "supports": "Separate FAFSA deadlines and school special-circumstances review process.",
+    "limitation": "School determines adjustment; aid is neither automatic nor guaranteed."
+  },
+  {
+    "chapter": 15,
+    "entry": "15.4",
+    "title": "Financial-aid adjustment requests",
+    "url": "https://studentaid.gov/articles/financial-aid-not-enough/",
+    "checked": "2026-10-09",
+    "supports": "Separate FAFSA deadlines and school special-circumstances review process.",
+    "limitation": "School determines adjustment; aid is neither automatic nor guaranteed."
+  },
+  {
+    "chapter": 15,
+    "entry": "15.5",
+    "title": "Current IDR questions and SAVE notice",
+    "url": "https://studentaid.gov/articles/faqs-idr-plan/",
+    "checked": "2026-10-09",
+    "supports": "Current FSA repayment status guidance and SAVE ending notice.",
+    "limitation": "As checked October 9 2026; servicer deadlines and loan eligibility vary."
+  },
+  {
+    "chapter": 15,
+    "entry": "15.5",
+    "title": "Preparing for payments",
+    "url": "https://studentaid.gov/articles/prepare-for-payments/",
+    "checked": "2026-10-09",
+    "supports": "Current FSA repayment status guidance and SAVE ending notice.",
+    "limitation": "As checked October 9 2026; servicer deadlines and loan eligibility vary."
+  },
+  {
+    "chapter": 16,
+    "entry": "16.1",
+    "title": "SBA market research and business planning",
+    "url": "https://www.sba.gov/counseling/plan-your-business/",
+    "checked": "2026-10-09",
+    "supports": "SBA demand research and business planning guidance.",
+    "limitation": "Small paid pilot framework is editorial practice, not revenue evidence."
+  },
+  {
+    "chapter": 16,
+    "entry": "16.2",
+    "title": "IRS LLC tax classification",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc",
+    "checked": "2026-10-09",
+    "supports": "State LLC structures and separate federal tax classification.",
+    "limitation": "No automatic tax savings; liability protection and election consequences vary."
+  },
+  {
+    "chapter": 16,
+    "entry": "16.2",
+    "title": "SBA business structures",
+    "url": "https://www.sba.gov/counseling/launch-your-business/",
+    "checked": "2026-10-09",
+    "supports": "State LLC structures and separate federal tax classification.",
+    "limitation": "No automatic tax savings; liability protection and election consequences vary."
+  },
+  {
+    "chapter": 16,
+    "entry": "16.3",
+    "title": "SBA licenses, permits, and local zoning",
+    "url": "https://www.sba.gov/counseling/launch-your-business/",
+    "checked": "2026-10-09",
+    "supports": "Business location, licenses, permits, and launch requirements.",
+    "limitation": "Activities and federal, state, and local jurisdictions determine duties."
+  },
+  {
+    "chapter": 16,
+    "entry": "16.4",
+    "title": "IRS self-employed tax center",
+    "url": "https://www.irs.gov/businesses/small-businesses-self-employed/self-employed-individuals-tax-center",
+    "checked": "2026-10-09",
+    "supports": "Self-employed tax obligations and estimated-payment planning.",
+    "limitation": "Tax year, profit, withholding, and state law affect actual obligation."
+  },
+  {
+    "chapter": 16,
+    "entry": "16.5",
+    "title": "FTC advertising rules",
+    "url": "https://www.ftc.gov/business-guidance/advertising-marketing",
+    "checked": "2026-10-09",
+    "supports": "Truthful advertising and business security data-minimization guidance.",
+    "limitation": "Specific consumer and privacy rules depend on activity and jurisdiction."
+  },
+  {
+    "chapter": 16,
+    "entry": "16.5",
+    "title": "FTC business security guidance",
+    "url": "https://www.ftc.gov/business-guidance/resources/start-security-guide-business",
+    "checked": "2026-10-09",
+    "supports": "Truthful advertising and business security data-minimization guidance.",
+    "limitation": "Specific consumer and privacy rules depend on activity and jurisdiction."
+  },
+  {
+    "chapter": 17,
+    "entry": "17.1",
+    "title": "LSC civil legal-aid finder",
+    "url": "https://www.lsc.gov/about-lsc/what-legal-aid/i-need-legal-help",
+    "checked": "2026-10-09",
+    "supports": "Civil legal-aid eligibility and provider-finding resources.",
+    "limitation": "Directories provide neither representation nor an extension of legal deadlines."
+  },
+  {
+    "chapter": 17,
+    "entry": "17.1",
+    "title": "USAGov legal assistance",
+    "url": "https://www.usa.gov/legal-aid",
+    "checked": "2026-10-09",
+    "supports": "Civil legal-aid eligibility and provider-finding resources.",
+    "limitation": "Directories provide neither representation nor an extension of legal deadlines."
+  },
+  {
+    "chapter": 17,
+    "entry": "17.2",
+    "title": "CFPB collection rights",
+    "url": "https://www.consumerfinance.gov/consumer-tools/debt-collection/know-your-rights-when-a-debt-collector-calls/",
+    "checked": "2026-10-09",
+    "supports": "Debt-collection rights and need to respond to court papers.",
+    "limitation": "Court response, debt age, and state law require case-specific review."
+  },
+  {
+    "chapter": 17,
+    "entry": "17.2",
+    "title": "Responding to a debt lawsuit",
+    "url": "https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-if-im-sued-by-a-debt-collector-or-creditor-en-334/",
+    "checked": "2026-10-09",
+    "supports": "Debt-collection rights and need to respond to court papers.",
+    "limitation": "Court response, debt age, and state law require case-specific review."
+  },
+  {
+    "chapter": 17,
+    "entry": "17.3",
+    "title": "Minnesota Attorney General on cosigning",
+    "url": "https://www.ag.state.mn.us/consumer/publications/CosigningALoan.asp",
+    "checked": "2026-10-09",
+    "supports": "Cosigner repayment exposure and contract review considerations.",
+    "limitation": "Minnesota source illustrates risks; applicable contract and law govern."
+  },
+  {
+    "chapter": 17,
+    "entry": "17.4",
+    "title": "Texas State Law Library",
+    "url": "https://www.sll.texas.gov/faqs/tape-phone-conversation/",
+    "checked": "2026-10-09",
+    "supports": "State recording consent differences and interstate complexity.",
+    "limitation": "Texas is an example; legality depends on setting and jurisdictions."
+  },
+  {
+    "chapter": 17,
+    "entry": "17.4",
+    "title": "Reporters Committee recording-law overview",
+    "url": "https://www.rcfp.org/introduction-to-reporters-recording-guide/",
+    "checked": "2026-10-09",
+    "supports": "State recording consent differences and interstate complexity.",
+    "limitation": "Texas is an example; legality depends on setting and jurisdictions."
+  },
+  {
+    "chapter": 17,
+    "entry": "17.5",
+    "title": "Los Angeles County public-defender FAQ",
+    "url": "https://pubdef.lacounty.gov/faqs/",
+    "checked": "2026-10-09",
+    "supports": "Rights during questioning and local appointed-counsel pathways.",
+    "limitation": "Local public defender eligibility and encounter requirements vary."
+  },
+  {
+    "chapter": 17,
+    "entry": "17.5",
+    "title": "County guidance on detention and questioning",
+    "url": "https://apd.lacounty.gov/know-your-rights/",
+    "checked": "2026-10-09",
+    "supports": "Rights during questioning and local appointed-counsel pathways.",
+    "limitation": "Local public defender eligibility and encounter requirements vary."
+  },
+  {
+    "chapter": 18,
+    "entry": "18.1",
+    "title": "FTC account and device protection",
+    "url": "https://consumer.ftc.gov/articles/protect-your-personal-information-hackers-and-scammers",
+    "checked": "2026-10-09",
+    "supports": "Account security, MFA, updates, phishing defenses, and backups.",
+    "limitation": "Editorial recovery workflow; no tool eliminates all account risks."
+  },
+  {
+    "chapter": 18,
+    "entry": "18.1",
+    "title": "FTC phishing defenses and backups",
+    "url": "https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams",
+    "checked": "2026-10-09",
+    "supports": "Account security, MFA, updates, phishing defenses, and backups.",
+    "limitation": "Editorial recovery workflow; no tool eliminates all account risks."
+  },
+  {
+    "chapter": 18,
+    "entry": "18.2",
+    "title": "FTC credit freezes and fraud alerts",
+    "url": "https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts",
+    "checked": "2026-10-09",
+    "supports": "Free bureau-specific credit freezes and fraud-alert distinctions.",
+    "limitation": "Freeze addresses many new-credit checks, not existing account compromise."
+  },
+  {
+    "chapter": 18,
+    "entry": "18.3",
+    "title": "USAGov identity-theft reporting",
+    "url": "https://www.usa.gov/identity-theft",
+    "checked": "2026-10-09",
+    "supports": "Identity theft reports and recovery planning.",
+    "limitation": "Affected institutions and types of identity misuse require separate steps."
+  },
+  {
+    "chapter": 18,
+    "entry": "18.3",
+    "title": "FTC recovery planning",
+    "url": "https://consumer.ftc.gov/articles/protect-your-personal-information-hackers-and-scammers",
+    "checked": "2026-10-09",
+    "supports": "Identity theft reports and recovery planning.",
+    "limitation": "Affected institutions and types of identity misuse require separate steps."
+  },
+  {
+    "chapter": 18,
+    "entry": "18.4",
+    "title": "FTC phishing response",
+    "url": "https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams",
+    "checked": "2026-10-09",
+    "supports": "Independent verification and actions after suspected phishing.",
+    "limitation": "Recovery depends on exposed information and device access."
+  },
+  {
+    "chapter": 18,
+    "entry": "18.4",
+    "title": "FTC multifactor authentication",
+    "url": "https://consumer.ftc.gov/articles/use-two-factor-authentication-protect-your-accounts",
+    "checked": "2026-10-09",
+    "supports": "Independent verification and actions after suspected phishing.",
+    "limitation": "Recovery depends on exposed information and device access."
+  },
+  {
+    "chapter": 18,
+    "entry": "18.5",
+    "title": "FTC romance scams",
+    "url": "https://consumer.ftc.gov/articles/what-know-about-romance-scams",
+    "checked": "2026-10-09",
+    "supports": "Romance-scam warning signs and personal-information exposure.",
+    "limitation": "Privacy review is editorial practice; payment recovery is uncertain."
+  },
+  {
+    "chapter": 18,
+    "entry": "18.5",
+    "title": "USAGov identity exposure",
+    "url": "https://www.usa.gov/identity-theft",
+    "checked": "2026-10-09",
+    "supports": "Romance-scam warning signs and personal-information exposure.",
+    "limitation": "Privacy review is editorial practice; payment recovery is uncertain."
+  },
+  {
+    "chapter": 33,
+    "entry": "33.1",
+    "title": "BLS wages by occupation and area",
+    "url": "https://www.bls.gov/bls/blswage.htm",
+    "checked": "2026-10-09",
+    "supports": "Official wage data by occupation and geography.",
+    "limitation": "Published aggregates are historical context, not individual salary promises."
+  },
+  {
+    "chapter": 33,
+    "entry": "33.2",
+    "title": "University of Michigan salary and negotiation guidance",
+    "url": "https://careercenter.umich.edu/article/salary-and-relocation-information",
+    "checked": "2026-10-09",
+    "supports": "Evidence-based compensation requests and consideration of offer terms.",
+    "limitation": "Career guidance, not proof every employer can negotiate."
+  },
+  {
+    "chapter": 33,
+    "entry": "33.3",
+    "title": "BLS Occupational Outlook Handbook",
+    "url": "https://www.bls.gov/ooh/",
+    "checked": "2026-10-09",
+    "supports": "Occupational entry requirements and government training resources.",
+    "limitation": "Funding, licensing recognition, program availability, and employer needs vary."
+  },
+  {
+    "chapter": 33,
+    "entry": "33.3",
+    "title": "USAGov job-training resources",
+    "url": "https://www.usa.gov/job-training",
+    "checked": "2026-10-09",
+    "supports": "Occupational entry requirements and government training resources.",
+    "limitation": "Funding, licensing recognition, program availability, and employer needs vary."
+  },
+  {
+    "chapter": 33,
+    "entry": "33.4",
+    "title": "CareerOneStop portfolios",
+    "url": "https://cloudfront.careeronestop.org/JobSearch/Resumes/portfolios.aspx",
+    "checked": "2026-10-09",
+    "supports": "Work samples and descriptions of contribution in career portfolios.",
+    "limitation": "Permission and confidentiality checks are editorial safeguards."
+  },
+  {
+    "chapter": 33,
+    "entry": "33.5",
+    "title": "CareerOneStop work-experience guide",
+    "url": "https://cloudfront.careeronestop.org/JobSearch/Resumes/ResumeGuide/work-experience.aspx",
+    "checked": "2026-10-09",
+    "supports": "Relevant resume accomplishments and permission-based reference preparation.",
+    "limitation": "Preparedness does not predict or prevent layoffs."
+  },
+  {
+    "chapter": 33,
+    "entry": "33.5",
+    "title": "Preparing references",
+    "url": "https://cloudfront.careeronestop.org/JobSearch/Resumes/references.aspx",
+    "checked": "2026-10-09",
+    "supports": "Relevant resume accomplishments and permission-based reference preparation.",
+    "limitation": "Preparedness does not predict or prevent layoffs."
+  },
+  {
+    "chapter": 34,
+    "entry": "34.1",
+    "title": "Copyright Office permission and fair-use questions",
+    "url": "https://www.copyright.gov/help/faq/faq-fairuse.html",
+    "checked": "2026-10-09",
+    "supports": "Permission, copyright reuse, and case-specific fair-use limits.",
+    "limitation": "No universal safe number of words or percentage."
+  },
+  {
+    "chapter": 34,
+    "entry": "34.2",
+    "title": "FTC protecting personal information guide",
+    "url": "https://www.ftc.gov/business-guidance/resources/protecting-personal-information-guide-business",
+    "checked": "2026-10-09",
+    "supports": "Inventory, minimize, protect, retain, and dispose of business data.",
+    "limitation": "Retention duties and applicable privacy laws require separate review."
+  },
+  {
+    "chapter": 34,
+    "entry": "34.3",
+    "title": "HHS vulnerability-disclosure policy, an organization-specific example",
+    "url": "https://www.hhs.gov/vulnerability-disclosure-policy/index.html",
+    "checked": "2026-10-09",
+    "supports": "Written testing scope and sensitive-data stop conditions in HHS policy.",
+    "limitation": "Organization-specific example, not blanket authorization or legal immunity."
+  },
+  {
+    "chapter": 34,
+    "entry": "34.4",
+    "title": "FTC disclosures for social-media influencers",
+    "url": "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers",
+    "checked": "2026-10-09",
+    "supports": "Clear material-connection disclosure accompanying endorsements.",
+    "limitation": "Format matters; disclosure does not cure deceptive substantive claims."
+  },
+  {
+    "chapter": 34,
+    "entry": "34.5",
+    "title": "DOJ web-accessibility guidance",
+    "url": "https://www.ada.gov/resources/web-guidance/",
+    "checked": "2026-10-09",
+    "supports": "Web-accessibility obligations and COPPA coverage conditions.",
+    "limitation": "Organization type, audience, actual knowledge, and data practices determine scope."
+  },
+  {
+    "chapter": 34,
+    "entry": "34.5",
+    "title": "FTC COPPA questions",
+    "url": "https://www.ftc.gov/business-guidance/resources/complying-coppa-frequently-asked-questions",
+    "checked": "2026-10-09",
+    "supports": "Web-accessibility obligations and COPPA coverage conditions.",
+    "limitation": "Organization type, audience, actual knowledge, and data practices determine scope."
+  },
+  {
+    "chapter": 35,
+    "entry": "35.1",
+    "title": "DOT airline refunds",
+    "url": "https://www.transportation.gov/individuals/aviation-consumer-protection/refunds",
+    "checked": "2026-10-09",
+    "supports": "DOT refund rights after cancellation or significant itinerary changes.",
+    "limitation": "Covered US flights; alternatives accepted and reason for cancellation matter."
+  },
+  {
+    "chapter": 35,
+    "entry": "35.2",
+    "title": "FTC vacation-rental scam guidance",
+    "url": "https://consumer.ftc.gov/consumer-alerts/2018/07/getting-vacation-rental-watch-out-scams",
+    "checked": "2026-10-09",
+    "supports": "Verify vacation rental agreements and avoid suspicious payment requests.",
+    "limitation": "Older FTC guidance; booking checklist is editorial practice."
+  },
+  {
+    "chapter": 35,
+    "entry": "35.3",
+    "title": "CFPB credit-card billing disputes",
+    "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-dispute-a-charge-on-my-credit-card-bill-en-61/",
+    "checked": "2026-10-09",
+    "supports": "Written credit-card billing error notice within 60 calendar days.",
+    "limitation": "Debit cards and defective-goods complaints may follow other procedures."
+  },
+  {
+    "chapter": 35,
+    "entry": "35.4",
+    "title": "Maine Judicial Branch small-claims guide, a state example",
+    "url": "https://www.courts.maine.gov/help/guides/sc-guide-2026.pdf",
+    "checked": "2026-10-09",
+    "supports": "State court procedure, service, evidence, fees, and collection steps.",
+    "limitation": "Maine example only; local court rules and deadlines control."
+  },
+  {
+    "chapter": 35,
+    "entry": "35.5",
+    "title": "USAGov company-complaint process",
+    "url": "https://www.usa.gov/company-product-service-complaints/",
+    "checked": "2026-10-09",
+    "supports": "Document purchase issues and escalate through proper complaint channels.",
+    "limitation": "Complaints do not promise recovery or suspend separate deadlines."
+  },
+  {
+    "chapter": 36,
+    "entry": "36.1",
+    "title": "HealthCare.gov coverage under 26",
+    "url": "https://www.healthcare.gov/young-adults/children-under-26/",
+    "checked": "2026-10-09",
+    "supports": "Dependent coverage under 26 and separate Medicaid or CHIP rules.",
+    "limitation": "Exact coverage end date, networks, and state eligibility vary."
+  },
+  {
+    "chapter": 36,
+    "entry": "36.1",
+    "title": "Medicaid and CHIP rules",
+    "url": "https://www.healthcare.gov/medicaid-chip/getting-medicaid-chip/",
+    "checked": "2026-10-09",
+    "supports": "Dependent coverage under 26 and separate Medicaid or CHIP rules.",
+    "limitation": "Exact coverage end date, networks, and state eligibility vary."
+  },
+  {
+    "chapter": 36,
+    "entry": "36.2",
+    "title": "USAGov birth-certificate requests",
+    "url": "https://www.usa.gov/birth-certificate",
+    "checked": "2026-10-09",
+    "supports": "Official birth-certificate requests and REAL ID identification alternatives.",
+    "limitation": "Agency document lists, processing times, and fees vary."
+  },
+  {
+    "chapter": 36,
+    "entry": "36.2",
+    "title": "USAGov REAL ID guidance",
+    "url": "https://www.usa.gov/real-id",
+    "checked": "2026-10-09",
+    "supports": "Official birth-certificate requests and REAL ID identification alternatives.",
+    "limitation": "Agency document lists, processing times, and fees vary."
+  },
+  {
+    "chapter": 36,
+    "entry": "36.3",
+    "title": "Vote.gov official state links",
+    "url": "https://vote.gov/",
+    "checked": "2026-10-09",
+    "supports": "Official voter registration routes and jurisdiction-dependent procedures.",
+    "limitation": "Eligibility, identification, deadlines, and voting methods differ locally."
+  },
+  {
+    "chapter": 36,
+    "entry": "36.3",
+    "title": "USAGov voter-registration instructions",
+    "url": "https://www.usa.gov/register-to-vote",
+    "checked": "2026-10-09",
+    "supports": "Official voter registration routes and jurisdiction-dependent procedures.",
+    "limitation": "Eligibility, identification, deadlines, and voting methods differ locally."
+  },
+  {
+    "chapter": 36,
+    "entry": "36.4",
+    "title": "MedlinePlus advance-care-directive guidance",
+    "url": "https://medlineplus.gov/ency/patientinstructions/000472.htm",
+    "checked": "2026-10-09",
+    "supports": "Advance directives and state-valid health-care proxy documents.",
+    "limitation": "Medical authority differs from financial powers and inheritance documents."
+  },
+  {
+    "chapter": 36,
+    "entry": "36.5",
+    "title": "IRS Form W-4 information",
+    "url": "https://www.irs.gov/forms-pubs/about-form-w-4",
+    "checked": "2026-10-09",
+    "supports": "W-4 employee withholding instructions and fake-check employment scams.",
+    "limitation": "Personal tax circumstances and employer onboarding processes differ."
+  },
+  {
+    "chapter": 36,
+    "entry": "36.5",
+    "title": "FTC job-scam guidance",
+    "url": "https://consumer.ftc.gov/articles/job-scams",
+    "checked": "2026-10-09",
+    "supports": "W-4 employee withholding instructions and fake-check employment scams.",
+    "limitation": "Personal tax circumstances and employer onboarding processes differ."
+  },
+  {
+    "chapter": "19",
+    "entry": "19.1",
+    "title": "CFPB money conversation and budgeting tools",
+    "url": "https://www.consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/toolkit/",
+    "checked": "2026-10-09",
+    "supports": "Set aside a calm hour to compare take-home income, debts, recurring obligations, caregiving, and what each person wants to keep separate. Agree on how shared bills will be divided and when you will review the arrangement. Keep a record both people can access. A shared budget does not require shared passwords or surrendering control of personal money; safety matters if a partner is controlling.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "19",
+    "entry": "19.2",
+    "title": "New York Courts divorce FAQs — New York example only",
+    "url": "https://www.nycourts.gov/divorce-resources/divorce-frequently-asked-questions-faqs",
+    "checked": "2026-10-09",
+    "supports": "Inventory assets, debts, retirement accounts, and parenting arrangements before agreeing to a settlement. Use your state court self-help service and seek legal advice about disputed property or children. New York, for example, describes equitable distribution rather than an automatic equal split; another state may use different rules. Mediation may help willing parties, but abuse or coercion can make it inappropriate.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "19",
+    "entry": "19.3",
+    "title": "CFPB family lending and borrowing",
+    "url": "https://www.consumerfinance.gov/consumer-tools/educator-tools/adult-financial-education/tips-for-managing-family-lending-and-borrowing/",
+    "checked": "2026-10-09",
+    "supports": "Before transferring money, agree on the amount, purpose, repayment schedule if any, and what happens if circumstances change. Write down the agreement and give both people a copy. Consider whether you can afford never to get the money back. For a large or interest-free arrangement, ask a qualified adviser about tax and legal consequences instead of treating a text message as a complete contract.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "19",
+    "entry": "19.4",
+    "title": "HHS safety planning for an abusive relationship",
+    "url": "https://womenshealth.gov/relationships-and-safety/domestic-violence/leaving-abusive-relationship",
+    "checked": "2026-10-09",
+    "supports": "If you face immediate danger, call 911 when you can safely do so. Otherwise, use a safer device to contact the National Domestic Violence Hotline at 800-799-7233 and plan around your circumstances. Think through a safe destination, transportation, children, medication, and important documents. Leaving can increase danger; an advocate can help plan the timing. Do not announce a departure plan to a person who may retaliate.",
+    "limitation": "Eligibility and applicability are limited as stated in the entry."
+  },
+  {
+    "chapter": "19",
+    "entry": "19.5",
+    "title": "USAGov child support services",
+    "url": "https://www.usa.gov/child-support",
+    "checked": "2026-10-09",
+    "supports": "Contact your state or tribal child support agency to ask about establishing parentage, obtaining an order, collecting support, or reviewing an existing amount. Keep payment records and copies of orders. If your income changes, ask about the formal modification process rather than assuming payments change automatically. Agencies can help pursue support; the government does not simply pay the other parent’s obligation for them.",
+    "limitation": "Eligibility and applicability are limited as stated in the entry."
+  },
+  {
+    "chapter": "20",
+    "entry": "20.1",
+    "title": "USAGov child care assistance and Head Start",
+    "url": "https://www.usa.gov/child-care-head-start",
+    "checked": "2026-10-09",
+    "supports": "Ask each provider for its full price, hours, closure calendar, late fees, and licensing information. Then check state child care assistance and your local Head Start program before assuming the posted price is what you must pay. Eligibility, provider participation, and openings differ. Include the time and cost of backup care in your comparison, especially if missed shifts could threaten your job.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "20",
+    "entry": "20.2",
+    "title": "CDC early intervention and referral routes",
+    "url": "https://www.cdc.gov/act-early/early-intervention/",
+    "checked": "2026-10-09",
+    "supports": "Write down concrete examples of the skills or behavior that concern you and discuss them with your child’s clinician. For a child under three, contact the state early intervention program directly; a doctor’s referral is not required. For preschool children three or older, contact the local public school or district special education office. Eligibility comes from evaluation and program rules, not a parent’s ability to buy private therapy.",
+    "limitation": "Eligibility and applicability are limited as stated in the entry."
+  },
+  {
+    "chapter": "20",
+    "entry": "20.3",
+    "title": "USAGov school and summer meal programs",
+    "url": "https://www.usa.gov/school-meals",
+    "checked": "2026-10-09",
+    "supports": "Ask your child’s school about breakfast and lunch programs, how eligibility is determined, and whether an application is needed. You can ask during the school year if circumstances change. Before summer, look for local meal sites and applicable summer grocery benefits. Availability and enrollment processes differ by program and location; do not assume a benefit continues automatically when school closes.",
+    "limitation": "Eligibility and applicability are limited as stated in the entry."
+  },
+  {
+    "chapter": "20",
+    "entry": "20.4",
+    "title": "CDC drowning prevention",
+    "url": "https://www.cdc.gov/drowning/prevention/index.html",
+    "checked": "2026-10-09",
+    "supports": "Choose one sober adult to supervise closely without a phone, then explicitly hand off that role if they need a break. Swimming lessons and lifeguards do not remove the need for supervision. Use appropriate life jackets around natural water, restrict unsupervised access to pools, and learn CPR. Inflatable toys are not safety equipment, and water risk also includes bathtubs and unfamiliar homes.",
+    "limitation": "Eligibility and applicability are limited as stated in the entry."
+  },
+  {
+    "chapter": "20",
+    "entry": "20.5",
+    "title": "SEC introduction to 529 plans",
+    "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/introduction-529-plans-investor-bulletin",
+    "checked": "2026-10-09",
+    "supports": "After protecting current essentials, compare your state’s 529 plan with lower-cost alternatives and read the offering documents. Check eligible expenses, withdrawal restrictions, investment risk, and any state tax incentive. A 529 is an account, not a guaranteed return. Choose investments that fit when the money will be spent and avoid committing money you may need for rent or emergency expenses.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "21",
+    "entry": "21.1",
+    "title": "Medicare enrollment timing and existing coverage",
+    "url": "https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-can-i-sign-up-for-medicare",
+    "checked": "2026-10-09",
+    "supports": "Most people first become eligible around 65; the usual initial window includes the three months before the birthday month, that month, and the following three months. Confirm your exact dates with Medicare. If you have employer coverage, ask how employer size and current employment affect enrollment. COBRA and retiree coverage are not interchangeable with coverage from current employment. Coordinate HSA contributions before Medicare begins.",
+    "limitation": "Eligibility and applicability are limited as stated in the entry."
+  },
+  {
+    "chapter": "21",
+    "entry": "21.2",
+    "title": "SSA retirement planning",
+    "url": "https://www.ssa.gov/retirement/plan-for-retirement",
+    "checked": "2026-10-09",
+    "supports": "Review your earnings record and estimated retirement benefits in your Social Security account. Eligible workers can generally claim from 62, with a higher monthly benefit for delaying up to 70. Consider health, household income needs, work, and spouse or survivor benefits before choosing. The best date is personal; a headline about the largest monthly payment does not decide the household’s best plan.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "21",
+    "entry": "21.3",
+    "title": "Medicare long-term care coverage limits",
+    "url": "https://www.medicare.gov/coverage/long-term-care",
+    "checked": "2026-10-09",
+    "supports": "List the help a person needs with bathing, meals, dressing, medication, transportation, and supervision. Medicare generally does not pay for ongoing custodial long-term care. Ask about local aging services, Medicaid eligibility, home-based support, and respite options before a caregiver burns out. A temporary skilled-care benefit is not a promise to pay for indefinite assisted living or help at home.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "21",
+    "entry": "21.4",
+    "title": "NIH advance-care planning checklist",
+    "url": "https://magazine.medlineplus.gov/article/advance-care-plan-a-checklist-for-the-future/",
+    "checked": "2026-10-09",
+    "supports": "Discuss medical preferences with a trusted person and complete advance-care documents that meet your state’s requirements. Give accessible copies to that person and your clinicians. Separately arrange valid authority for financial decisions; a health care proxy and a financial power of attorney serve different purposes. Review wills and beneficiary designations with appropriate help after major family changes rather than assuming one document handles everything.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "21",
+    "entry": "21.4",
+    "title": "CFPB managing someone else’s money",
+    "url": "https://www.consumerfinance.gov/consumer-tools/managing-someone-elses-money/",
+    "checked": "2026-10-09",
+    "supports": "Discuss medical preferences with a trusted person and complete advance-care documents that meet your state’s requirements. Give accessible copies to that person and your clinicians. Separately arrange valid authority for financial decisions; a health care proxy and a financial power of attorney serve different purposes. Review wills and beneficiary designations with appropriate help after major family changes rather than assuming one document handles everything.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "21",
+    "entry": "21.5",
+    "title": "FTC Funeral Rule and itemized price requirements",
+    "url": "https://www.ftc.gov/business-guidance/resources/complying-funeral-rule",
+    "checked": "2026-10-09",
+    "supports": "Ask funeral providers for prices and compare the specific services your family wants. Covered providers must give you a General Price List when you inquire in person about arrangements, and provide required price information over the phone. Ask which charges are optional and why any item is required. Bring a trusted person to help take notes; a more expensive package is not a measure of love.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "22",
+    "entry": "22.1",
+    "title": "SSA comparison of disability programs",
+    "url": "https://www.ssa.gov/redbook/eng/overview-disability.htm",
+    "checked": "2026-10-09",
+    "supports": "SSDI is tied to insured status based on covered earnings; SSI considers limited income and resources as well as age, blindness, or disability. Some people qualify for both. Start with Social Security, keep records of functional limitations and treatment, and save every decision notice. Follow the appeal instructions and deadline on a denial. A diagnosis alone does not establish eligibility for every program.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "22",
+    "entry": "22.2",
+    "title": "Medicaid home and community-based waivers",
+    "url": "https://www.medicaid.gov/medicaid/home-community-based-services/home-community-based-services-authorities/home-community-based-services-1915c",
+    "checked": "2026-10-09",
+    "supports": "Contact Medicaid or the state disability services agency about home and community-based services. Ask which program fits the person’s age and needs, what financial and functional tests apply, whether enrollment is capped, and what alternatives exist while waiting. Some waivers can cover personal care, respite, or other support. Benefits and openings differ; getting Medicaid does not automatically guarantee every home-care service.",
+    "limitation": "Eligibility and applicability are limited as stated in the entry."
+  },
+  {
+    "chapter": "22",
+    "entry": "22.3",
+    "title": "Department of Justice overview of disability rights",
+    "url": "https://www.ada.gov/topics/intro-to-ada/",
+    "checked": "2026-10-09",
+    "supports": "Describe the barrier and the change that would help: accessible documents, communication support, a usable entrance, or an adjustment to a service. Keep a dated record of requests and responses. Disability rights apply in many settings, but the applicable law differs: housing, air travel, employment, and public services do not all use the same complaint process. Use the relevant agency instead of buying an unofficial disability certificate.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "22",
+    "entry": "22.4",
+    "title": "SSA ABLE accounts — 2026 edition",
+    "url": "https://www.ssa.gov/ssi/spotlights/spot-able.html",
+    "checked": "2026-10-09",
+    "supports": "An ABLE account can hold money for qualified disability expenses with special tax and benefit treatment. Starting in 2026, the qualifying disability must generally have begun before age 46, alongside the other eligibility requirements. Compare program fees, contribution rules, SSI balance treatment, and possible Medicaid recovery. Keep expense records and get benefits guidance before a large transfer; ABLE protection has conditions and limits.",
+    "limitation": "Eligibility and applicability are limited as stated in the entry."
+  },
+  {
+    "chapter": "22",
+    "entry": "22.5",
+    "title": "USAGov disability employment and training routes",
+    "url": "https://www.usa.gov/disability-jobs-training",
+    "checked": "2026-10-09",
+    "supports": "Contact your state vocational rehabilitation agency or a local Center for Independent Living about training and support. If you receive Social Security disability benefits, ask about Ticket to Work and individualized benefits counseling before changing work hours. Report earnings as required and save confirmation. Support programs can help, but each person’s cash benefits and health coverage may respond differently to earnings.",
+    "limitation": "Eligibility and applicability are limited as stated in the entry."
+  },
+  {
+    "chapter": "23",
+    "entry": "23.1",
+    "title": "USDA nutrition on a budget",
+    "url": "https://www.nutrition.gov/topics/food-security-and-access/nutrition-budget",
+    "checked": "2026-10-09",
+    "supports": "Choose two or three realistic meals, check what is already at home, and make a shopping list around overlapping ingredients. Compare fresh, frozen, and canned options that fit your needs and storage. Build in a quick fallback meal for exhausted evenings. Buying bulk only helps if you can store and use it; include preparation time and transport rather than judging groceries by sticker price alone.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "23",
+    "entry": "23.2",
+    "title": "Department of Energy home assessment guide",
+    "url": "https://www.energy.gov/sites/prod/files/guide_to_home_energy_assessments.pdf",
+    "checked": "2026-10-09",
+    "supports": "Review bills across seasons and ask your utility about an energy assessment. Start with the largest practical sources of waste identified for your home. Compare installed cost, maintenance, expected savings, and how long you will stay before buying equipment. Renters should check permission before changes. Confirm current incentives with the administering program; an old webpage or salesperson’s projection is not an approved rebate.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "23",
+    "entry": "23.3",
+    "title": "USAGov public libraries and available resources",
+    "url": "https://www.usa.gov/libraries-and-archives",
+    "checked": "2026-10-09",
+    "supports": "Ask your local public library about digital books, audiobooks, research databases, computer access, learning resources, and community events. Check residency and borrowing rules and try the service before paying for something similar. Collections and waiting lists vary. A library card can also be an entry point to local information and human help when an online form or job search gets confusing.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "23",
+    "entry": "23.4",
+    "title": "USDA budget resources including unit pricing",
+    "url": "https://www.nutrition.gov/topics/food-security-and-access/nutrition-budget",
+    "checked": "2026-10-09",
+    "supports": "Compare equal units, such as price per ounce, and then ask how much you will use before it spoils or becomes clutter. Include membership charges, delivery fees, and the travel required to get a discount. Try a smaller package if you are unsure you like the product. A lower unit price is useful only when the purchase fits your cash flow and real needs.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "23",
+    "entry": "23.5",
+    "title": "CDC suggestions for improving social connection",
+    "url": "https://www.cdc.gov/social-connectedness/improving/index.html",
+    "checked": "2026-10-09",
+    "supports": "Choose a recurring way to see or contact people: a walk, library group, shared meal, community class, or a call with a friend. Make the first commitment small enough to keep. Reach out for help and offer it where you can without exhausting yourself. If cost, illness, transport, or disability is a barrier, look for an accessible alternative rather than treating isolation as a personal failure.",
+    "limitation": "Eligibility and applicability are limited as stated in the entry."
+  },
+  {
+    "chapter": "24",
+    "entry": "24.1",
+    "title": "CDC emergency water storage",
+    "url": "https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html",
+    "checked": "2026-10-09",
+    "supports": "Store at least one gallon of water per person per day for three days; add more for heat, illness, pregnancy, and pets, and build toward a longer supply if feasible. Keep essential medicines, contact information, chargers, and an evacuation plan accessible. Coordinate assistance for mobility or powered medical equipment. Follow local evacuation instructions; supplies are useful, but they do not make an unsafe location safe.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "24",
+    "entry": "24.2",
+    "title": "CPSC carbon monoxide prevention",
+    "url": "https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center",
+    "checked": "2026-10-09",
+    "supports": "Install CO alarms on every level and outside sleeping areas, with battery backup as appropriate, and follow testing instructions. Never run a generator inside a home or garage, even with doors open; CPSC advises placing it outside at least 20 feet from the home with exhaust directed away. If an alarm sounds or poisoning is suspected, get outside to fresh air and call 911.",
+    "limitation": "Eligibility and applicability are limited as stated in the entry."
+  },
+  {
+    "chapter": "24",
+    "entry": "24.3",
+    "title": "State Department international travel checklist",
+    "url": "https://travel.state.gov/en/international-travel/planning/checklist.html",
+    "checked": "2026-10-09",
+    "supports": "Confirm passport validity, destination entry rules, relevant travel advice, and whether your current insurance pays for care abroad. If a coverage gap matters, compare travel medical and evacuation insurance including exclusions and pre-existing-condition provisions. Keep accessible copies of documents and a trusted contact’s details. U.S. consular assistance is valuable, but the government does not pay your routine medical or unexpected travel bills.",
+    "limitation": "Eligibility and applicability are limited as stated in the entry."
+  },
+  {
+    "chapter": "24",
+    "entry": "24.4",
+    "title": "NHTSA seat belt guidance",
+    "url": "https://www.nhtsa.gov/vehicle-safety/seat-belts",
+    "checked": "2026-10-09",
+    "supports": "Buckle up in every seating position, set navigation before departure, and keep the phone out of your hands. Arrange a sober driver or another ride before using substances that impair driving. If tiredness makes you unsafe, stop and rest rather than relying on willpower. A short, familiar drive still requires attention; use a suitable child restraint for children and follow its instructions.",
+    "limitation": "Eligibility and applicability are limited as stated in the entry."
+  },
+  {
+    "chapter": "24",
+    "entry": "24.4",
+    "title": "NHTSA distracted driving prevention",
+    "url": "https://www.nhtsa.gov/risky-driving/distracted-driving",
+    "checked": "2026-10-09",
+    "supports": "Buckle up in every seating position, set navigation before departure, and keep the phone out of your hands. Arrange a sober driver or another ride before using substances that impair driving. If tiredness makes you unsafe, stop and rest rather than relying on willpower. A short, familiar drive still requires attention; use a suitable child restraint for children and follow its instructions.",
+    "limitation": "Eligibility and applicability are limited as stated in the entry."
+  },
+  {
+    "chapter": "24",
+    "entry": "24.5",
+    "title": "CDC firearm injury prevention and secure storage",
+    "url": "https://www.cdc.gov/firearm-violence/prevention/index.html",
+    "checked": "2026-10-09",
+    "supports": "If firearms are present, store them unloaded and locked, with ammunition secured separately, and keep keys or combinations inaccessible to unauthorized people. Hiding a firearm is not secure storage. Ask about storage where children visit. If someone in the home may harm themselves or others, seek immediate crisis help and arrange safer access restrictions consistent with local law; do not attempt to seize a weapon from someone threatening violence.",
+    "limitation": "Eligibility and applicability are limited as stated in the entry."
+  },
+  {
+    "chapter": "37",
+    "entry": "37.1",
+    "title": "VA accredited representatives and free VSO help",
+    "url": "https://www.va.gov/get-help-from-accredited-representative/",
+    "checked": "2026-10-09",
+    "supports": "Find an accredited Veterans Service Organization representative through VA and ask whether they can help with your claim or decision review. Accredited VSO claim assistance is free; attorneys and claims agents may charge under applicable rules. Keep your own copies of service records, medical evidence, submissions, and decision letters. Be cautious about anyone guaranteeing a rating or demanding broad access to your accounts.",
+    "limitation": "Eligibility and applicability are limited as stated in the entry."
+  },
+  {
+    "chapter": "37",
+    "entry": "37.2",
+    "title": "VA health care eligibility",
+    "url": "https://www.va.gov/health-care/eligibility/",
+    "checked": "2026-10-09",
+    "supports": "Review VA’s eligibility criteria and apply if your service history may qualify. Ask how enrollment, priority group, copayments, and other insurance affect your care. Do not assume that having a private plan disqualifies you, or that every veteran automatically receives every service free. Keep your care team informed about medications and treatment from other systems so records and prescriptions do not become fragmented.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "37",
+    "entry": "37.3",
+    "title": "VA GI Bill benefits and comparison resources",
+    "url": "https://www.va.gov/education/about-gi-bill-benefits/",
+    "checked": "2026-10-09",
+    "supports": "Use VA’s comparison tools and your Statement of Benefits to check the approved program, remaining entitlement, tuition coverage, and living-cost support. Ask the school’s certifying official for a written estimate and compare graduation, transfer, and job outcomes. Approval for benefits does not guarantee that a school is a good investment or that every fee will be covered. Review consequences before changing programs or withdrawing.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "37",
+    "entry": "37.4",
+    "title": "VA-backed home loans",
+    "url": "https://www.va.gov/housing-assistance/home-loans/",
+    "checked": "2026-10-09",
+    "supports": "Check your Certificate of Eligibility and compare lender offers using the same home price, loan amount, and closing date. Ask about the funding fee and any exemption, interest rate, closing costs, and monthly taxes and insurance. A possible low or zero down payment does not remove the cost of owning a home. Keep repair reserves and compare with renting if your next move may be soon.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "37",
+    "entry": "37.5",
+    "title": "DOJ servicemember financial and housing rights",
+    "url": "https://www.justice.gov/servicemembers/financial-and-housing-rights-0",
+    "checked": "2026-10-09",
+    "supports": "When entering active duty or receiving qualifying orders, ask military legal assistance whether the Servicemembers Civil Relief Act applies to existing debts, housing, vehicle leases, or court proceedings. Keep orders and written notices. Eligibility, notice requirements, and timing matter; a protection for one contract does not cancel all obligations. Contact the lender or landlord through a documented process instead of simply stopping payment.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "38",
+    "entry": "38.1",
+    "title": "CDC food poisoning prevention",
+    "url": "https://www.cdc.gov/food-safety/prevention/index.html",
+    "checked": "2026-10-09",
+    "supports": "Keep raw meat separate from ready-to-eat food, clean hands and preparation surfaces, and use a food thermometer with the recommended temperature for the food. Refrigerate perishables within two hours, or one hour when exposed to temperatures above 90°F. Thaw safely in the refrigerator, cold water, or microwave. Appearance and smell cannot reliably establish safety, and a bargain is not worth eating recalled food.",
+    "limitation": "Eligibility and applicability are limited as stated in the entry."
+  },
+  {
+    "chapter": "38",
+    "entry": "38.2",
+    "title": "EPA radon testing and reduction resources",
+    "url": "https://www.epa.gov/radon",
+    "checked": "2026-10-09",
+    "supports": "Use EPA guidance to arrange a radon test appropriate to your home and follow the kit instructions. A neighbor’s result does not measure your home. If the result calls for action, obtain qualified mitigation advice and retest after work. Renters can ask the owner about existing results and responsibilities. For a purchase, clarify testing and mitigation in the inspection process before closing.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "38",
+    "entry": "38.3",
+    "title": "EPA lead in drinking water",
+    "url": "https://www.epa.gov/ground-water-and-drinking-water/basic-information-about-lead-drinking-water",
+    "checked": "2026-10-09",
+    "supports": "Ask your water utility about service lines and testing, especially in older housing. If lead is a concern, follow local sampling guidance and select a filter certified for lead reduction; replace cartridges on schedule. Use cold water for drinking and cooking. Boiling does not remove lead. A general annual water report may not describe the plumbing inside your home, and private wells need their own testing plan.",
+    "limitation": "Eligibility and applicability are limited as stated in the entry."
+  },
+  {
+    "chapter": "38",
+    "entry": "38.4",
+    "title": "CDC heat and health planning",
+    "url": "https://www.cdc.gov/heat-health/about/index.html",
+    "checked": "2026-10-09",
+    "supports": "Check local heat risk and identify a reliably cool place, including a public cooling center if needed. Move demanding outdoor activity to cooler hours, take breaks, and check on people who live alone. Ask your clinician about a heat plan if you have medical conditions or take medicines that affect heat tolerance. Plan for refrigerated medicines and powered equipment during outages; do not change prescriptions on your own.",
+    "limitation": "Eligibility and applicability are limited as stated in the entry."
+  },
+  {
+    "chapter": "38",
+    "entry": "38.5",
+    "title": "AirNow preparation for wildfire smoke",
+    "url": "https://www.airnow.gov/wildfires/be-smoke-ready/",
+    "checked": "2026-10-09",
+    "supports": "Check AirNow and local instructions before outdoor activity during smoke events. Identify an indoor room where air can be kept cleaner and consider appropriately sized filtration. Reduce indoor smoke and particle sources. People with heart or lung disease, children, and older adults may need extra precautions. A cleaner room does not override an evacuation order, and a hot sealed room creates another hazard if cooling is unavailable.",
+    "limitation": "Eligibility and applicability are limited as stated in the entry."
+  },
+  {
+    "chapter": "39",
+    "entry": "39.1",
+    "title": "State Department guidance for study abroad",
+    "url": "https://travel.state.gov/en/international-travel/planning/safety-tips/studying.html",
+    "checked": "2026-10-09",
+    "supports": "Ask your home school which credits will transfer, who awards the transcript, what aid can be used, and what happens if the program is canceled. Compare the full cost including housing, flights, local transportation, insurance, and visa fees. Review the destination’s safety guidance and keep emergency contacts. A beautiful program brochure does not establish credit transfer, scholarship eligibility, or a right to work abroad.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "39",
+    "entry": "39.2",
+    "title": "State Department business travel and work abroad",
+    "url": "https://travel.state.gov/en/international-travel/planning/safety-tips/business.html",
+    "checked": "2026-10-09",
+    "supports": "Check destination-government visa and work rules with the employer or sponsor before travel, including whether remote work is permitted. Get pay, insurance, housing, termination, and return-travel terms in writing. Research local laws and entry requirements; a U.S. passport is not general permission to work in another country. For a complex assignment, get immigration and tax advice that covers both countries.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "39",
+    "entry": "39.3",
+    "title": "IRS guidance for U.S. citizens abroad",
+    "url": "https://www.irs.gov/individuals/international-taxpayers/us-citizens-and-resident-aliens-abroad",
+    "checked": "2026-10-09",
+    "supports": "U.S. citizens generally remain subject to U.S. tax rules on worldwide income while abroad. Review filing requirements, foreign tax relief, and any foreign-account reporting obligations with a qualified adviser. Keep income, tax, account, and travel-day records. Do not assume a foreign income exclusion is automatic or that owing no income tax eliminates reporting. State residency and local-country tax rules need separate attention.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "39",
+    "entry": "39.4",
+    "title": "CDC traveling abroad with medicine",
+    "url": "https://wwwnc.cdc.gov/travel/page/travel-abroad-with-medicine",
+    "checked": "2026-10-09",
+    "supports": "Check the destination and transit countries’ rules before packing prescription or over-the-counter medicines. Ask about controlled medicines, quantity limits, documentation, and permits. Keep medicines in labeled original packaging and arrange an adequate legal supply with your clinician. Carry essential medication where you can access it during travel. A valid U.S. prescription does not guarantee that the same drug is permitted abroad.",
+    "limitation": "Eligibility and applicability are limited as stated in the entry."
+  },
+  {
+    "chapter": "39",
+    "entry": "39.5",
+    "title": "State Department crisis response and evacuation limits",
+    "url": "https://travel.state.gov/en/international-travel/help-abroad/crisis-response.html",
+    "checked": "2026-10-09",
+    "supports": "Save local emergency numbers, embassy contacts, documents, and a way to reach family without your usual phone. Enroll in appropriate State Department travel alerts through STEP. Follow local instructions and use safe commercial departure options when advised and available. Government evacuation is not guaranteed and usually involves repayment; onward travel from a safe location may remain your responsibility. Include dependents and pets in planning.",
+    "limitation": "Eligibility and applicability are limited as stated in the entry."
+  },
+  {
+    "chapter": "40",
+    "entry": "40.1",
+    "title": "Editorial decision method",
+    "url": "../METHODOLOGY.md",
+    "checked": "2026-10-09",
+    "supports": "First handle a real deadline or a threat to safety, housing, essential care, or income. Then choose one repeatable improvement such as reviewing a recurring bill or making a realistic meal plan. Write the next action and when you will do it. Leave the rest of this guide for later. A list of two achievable actions is easier to evaluate than a promise to overhaul your whole life.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "40",
+    "entry": "40.2",
+    "title": "Editorial decision method",
+    "url": "../METHODOLOGY.md",
+    "checked": "2026-10-09",
+    "supports": "Write the upfront price, recurring charges, maintenance, exit costs, and time required. Add what could go wrong and whether you can absorb it. Use your own assumptions and test a less favorable case. For example, a cheaper apartment may add commuting time and a car expense. Do not collapse health, relationships, and dollars into a fake universal score; decide which tradeoffs matter to your household.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "40",
+    "entry": "40.3",
+    "title": "Editorial decision method",
+    "url": "../METHODOLOGY.md",
+    "checked": "2026-10-09",
+    "supports": "Choose one friction point such as repeated errands or distracted work. Record the current pattern briefly, try one change for a week, and compare time, stress, and results. Examples include batching errands or silencing nonessential alerts during a short work block. Keep emergency and caregiving communication available. If the change creates more work than it saves, revise or drop it rather than buying a new productivity system.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "40",
+    "entry": "40.4",
+    "title": "Editorial decision method",
+    "url": "../METHODOLOGY.md",
+    "checked": "2026-10-09",
+    "supports": "Before a course, subscription, side project, or new routine, define what success would look like and when you will reassess. Decide what would make you stop, change approach, or seek help. Separate a modest reversible trial from a major commitment. Money already spent is a record of the past; the next payment should be judged on the likely value from here.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "40",
+    "entry": "40.5",
+    "title": "Editorial decision method",
+    "url": "../METHODOLOGY.md",
+    "checked": "2026-10-09",
+    "supports": "Keep a secure index of policies, benefit notices, warranties, important contacts, and upcoming renewal or appeal dates. Store sensitive documents in protected storage, not in a public repository or shared checklist. Give an appropriate trusted person a way to locate essential information. Schedule a brief review after a move, job change, birth, separation, or death; revise the system if maintaining it becomes a burden.",
+    "limitation": "Practical steps and time estimates are editorial suggestions; cited facts have the scope stated in the entry."
+  },
+  {
+    "chapter": "38",
+    "entry": "38.1",
+    "title": "FDA safe food handling",
+    "url": "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling",
+    "checked": "2026-10-09",
+    "supports": "Cook immediately after thawing in cold water or microwave.",
+    "limitation": "Safe handling advice does not establish food safety for an individual recalled or contaminated item."
+  },
+  {
+    "chapter": "24",
+    "entry": "24.4",
+    "title": "NHTSA drowsy driving",
+    "url": "https://www.nhtsa.gov/risky-driving/drowsy-driving",
+    "checked": "2026-10-09",
+    "supports": "Drowsiness threatens safe driving; adequate sleep and avoiding driving when sleepy are preventive steps.",
+    "limitation": "No quick trick guarantees alertness."
+  },
+  {
+    "chapter": "24",
+    "entry": "24.4",
+    "title": "NHTSA drug-impaired driving",
+    "url": "https://www.nhtsa.gov/risky-driving/drug-impaired-driving",
+    "checked": "2026-10-09",
+    "supports": "Alcohol and impairing drugs can make driving unsafe.",
+    "limitation": "Effects vary by substance and person; verify medication warnings."
+  },
+  {
+    "chapter": "35",
+    "entry": "35.3",
+    "title": "CFPB Regulation Z 1026.13(b)(1)",
+    "url": "https://www.consumerfinance.gov/rules-policy/regulations/1026/13/",
+    "checked": "2026-10-09",
+    "supports": "Billing-error notice must be received at the disclosed address no later than 60 days after the first periodic statement reflecting the error was transmitted.",
+    "limitation": "Specific open-end credit billing-error procedure; not a universal dispute right for all payments."
+  },
+  {
+    "chapter": "21",
+    "entry": "21.1",
+    "title": "Medicare working past65",
+    "url": "https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/working-past-65",
+    "checked": "2026-10-09",
+    "supports": "HSA contribution coordination may need to account for retroactive Medicare coverage.",
+    "limitation": "Individual Medicare entitlement timing and account circumstances require verification."
+  },
+  {
+    "chapter": "scenario-11",
+    "entry": "scenario-11",
+    "title": "USAGov report a death",
+    "url": "https://www.usa.gov/report-a-death",
+    "checked": "2026-10-09",
+    "supports": "Notification pathways after a death, including agencies and financial services.",
+    "limitation": "Notification duties depend on the deceased person’s accounts and benefits."
+  },
+  {
+    "chapter": "scenario-11",
+    "entry": "scenario-11",
+    "title": "FTC debts and deceased relatives",
+    "url": "https://consumer.ftc.gov/articles/debts-and-deceased-relatives",
+    "checked": "2026-10-09",
+    "supports": "Estate debt and exceptions to relatives generally not personally owing solely by relationship.",
+    "limitation": "State laws, joint obligations, and estate-administration conduct can change responsibility."
+  },
+  {
+    "chapter": "24",
+    "entry": "24.1",
+    "title": "CDC all-hazards preparedness guide",
+    "url": "https://stacks.cdc.gov/view/cdc/138803/cdc_138803_DS1.pdf",
+    "checked": "2026-10-09",
+    "supports": "Communication, evacuation, medication and medical-equipment planning, including access needs and pets.",
+    "limitation": "Historical guide, used only for general preparation principles on pages10–18; not for current disease, evacuation or treatment instructions."
+  }
+]
