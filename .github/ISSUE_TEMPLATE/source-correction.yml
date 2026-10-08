@@ -1,0 +1,39 @@
+name: Source correction
+description: Flag an inaccurate claim, missing condition, or changed official source.
+title: "[Correction] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Specific corrections help us improve the guide. Please link an official source and identify its scope. Do not include personal case records. An issue is not a formal appeal or a request for individual advice.
+  - type: input
+    id: location
+    attributes:
+      label: Page, route, or play ID
+    validations:
+      required: true
+  - type: textarea
+    id: claim
+    attributes:
+      label: Which claim needs correction, and why?
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Official source URL
+      description: Link directly to the page supporting the correction.
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Applicable place, plan or program, and date
+      description: Distinguish federal rules from a state, insurer, employer, or program example.
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Suggested wording
+      description: Optional. Include important exceptions or deadlines.
