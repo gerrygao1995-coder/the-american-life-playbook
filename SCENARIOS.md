@@ -13,6 +13,8 @@ These lists organize the guide. They are not additional numbered plays, and they
 
 ## 2. I received a large medical bill
 
+**[Open the interactive bill-review kit](https://gerrygao1995-coder.github.io/the-american-life-playbook/medical-bills/)** for four routes, printable checklists, scripts, and fictional worked examples.
+
 - [ ] Compare the bill with the insurer's explanation of benefits; they are different documents.
 - [ ] Request an itemized review and check patient details, services, adjustments, and payments.
 - [ ] Ask about financial assistance and the application deadline before using expensive credit. [Bill review](guide/04-health-insurance.md#044-request-bill-review-and-financial-assistance-before-borrowing).

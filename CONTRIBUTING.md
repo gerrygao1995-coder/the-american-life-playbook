@@ -20,3 +20,9 @@ Do not post account numbers, medical records, identity documents, private corres
 Edit the relevant Markdown file in guide/ and corresponding data/sources.json records. Keep stable entry IDs whenever possible. Update CHANGELOG.md for substantive changes. Run node scripts/build.mjs to regenerate index.html and data/plays.json, and run node scripts/check.mjs for structural checks. Check the reader's search, filters, saved entries, navigation, and print view after a reader change.
 
 For a proposed new topic, explain the distinct reader problem and why an existing entry cannot handle it. Five entries per topic is the first edition's layout, not a restriction on future useful work.
+
+## Medical-bill kit
+
+Edit medical-bills/content.json, then run node scripts/build-medical-kit.mjs. Each source record says which claim it supports and where it stops. Recheck time-sensitive statements against the actual official page. Keep fictional examples explicitly labeled. Do not claim independent review until a named reviewer has agreed to an accurate description of their contribution.
+
+Use the repository's **Reader feedback** issue form for unclear steps and usability problems, or **Source correction** for a disputed claim. Public issues are for general feedback; never attach bills or case documents. You can contribute a source correction without disclosing your personal situation.

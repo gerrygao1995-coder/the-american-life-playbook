@@ -12,11 +12,19 @@
 
 **200 detailed plays · 40 topics · 12 situation checklists · 10 scripts · Offline search**
 
+## Before you pay that medical bill
+
+**[Open the free U.S. bill-review kit →](https://gerrygao1995-coder.github.io/the-american-life-playbook/medical-bills/)**
+
+A bill that looks wrong, an insurance denial, an unaffordable balance, or an uninsured/self-pay bill? Choose a route for a document checklist, a call script, questions to ask, and next steps. Print your selected route and a blank contact log. Two clearly labeled fictional examples show how the process works. No signup, no bill upload, no tracking scripts.
+
+The kit links to official sources and explains the limits of each route. It does not determine what you owe, replace an appeal, or guarantee a reduction. AI-assisted drafting is disclosed; independent professional review is still needed.
+
 ## Find what you need today
 
 | If you are thinking… | Start here |
 | --- | --- |
-| “This medical bill cannot be right.” | [Review the bill and ask about financial assistance](guide/04-health-insurance.md#044-request-bill-review-and-financial-assistance-before-borrowing) |
+| “This medical bill cannot be right.” | [Choose a route in the medical-bill kit](https://gerrygao1995-coder.github.io/the-american-life-playbook/medical-bills/) |
 | “I just lost my job.” | [The first-week checklist](SCENARIOS.md#1-i-lost-my-job) |
 | “I work hard. Where does the money go?” | [Cash flow, banking, and credit](guide/07-cash-flow-banking-credit.md) |
 | “Should I move, buy a home, or keep renting?” | [Compare the full commitment](guide/30-major-decisions-moving.md) |
