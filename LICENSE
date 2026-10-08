@@ -1,0 +1,13 @@
+The American Life Playbook — licensing notice
+
+Text, data text, and original SVG artwork: Creative Commons Attribution 4.0 International (CC BY 4.0).
+https://creativecommons.org/licenses/by/4.0/
+Full legal terms: LICENSES/CC-BY-4.0.txt
+
+Copyright (c) 2026 The American Life Playbook contributors.
+
+This independent adaptation was inspired by HowToLiveBetter (高性价比人生指南), by eternity4719 and contributors, https://github.com/eternity4719/HowToLiveBetter, whose text is offered under CC BY 4.0. The English prose, U.S. localization, organization, tools, and artwork were newly created for this edition. See ATTRIBUTION.md for the changes and theme map. No endorsement by upstream authors or cited organizations is implied.
+
+Reader and build/check software (scripts/, reader template, and the code portions of index.html): MIT License, reproduced in LICENSES/MIT.txt. The text embedded in index.html and data/plays.json remains under CC BY 4.0.
+
+Linked external sources retain their respective rights. These licenses do not grant rights to third-party names, logos, or trademarks.
