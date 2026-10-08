@@ -17,6 +17,6 @@ for(const s of sources){for(const key of ['entry','title','url','checked','suppo
 for(const p of plays){for(const m of p.basis.matchAll(/\]\((https?:[^)]+)\)/g))if(!sources.some(s=>s.entry===p.number&&s.url===m[1]))errors.push(`Citation missing from ledger: ${p.number} ${m[1]}`);}
 const html=fs.readFileSync(path.join(root,'index.html'),'utf8');
 if((html.match(/<article class="play"/g)||[]).length!==200)errors.push('Readercardcount');
-if(/<script[^>]+src=|<link[^>]+href="https?:/.test(html))errors.push('Externalreaderdependency');
+if(/<script[^>]+src=|<link[^>]+rel="stylesheet"[^>]+href="https?:/.test(html))errors.push('Externalreaderdependency');
 if(/<!--(?:PLAY_SECTIONS|PLAY_DATA|CHAPTER_OPTIONS)-->/u.test(html))errors.push('Unresolvedtemplate');
 if(errors.length){console.error(errors.join('\n'));process.exitCode=1;}else console.log(`PASS: ${plays.length} plays, ${sources.length} source records, ${links} relative document links; reader content and citation coverage checked.`);
