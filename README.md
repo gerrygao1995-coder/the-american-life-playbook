@@ -6,7 +6,9 @@
 
 200 practical plays across 40 topics to protect your health, money, time, and rights. Built for people living in the United States: the medical bill on your desk, the benefits you might qualify for, the job offer you need to compare, and the family decisions nobody handed you a manual for.
 
-**[Start with one useful move →](START-HERE.md)** · **[Find your situation](SCENARIOS.md)** · **[Copy a script](TEMPLATES.md)** · **[Browse all 40 topics](#the-playbook)**
+**[Open the searchable playbook →](https://gerrygao1995-coder.github.io/the-american-life-playbook/)**
+
+**[Start with one useful move](START-HERE.md)** · **[Find your situation](SCENARIOS.md)** · **[Copy a script](TEMPLATES.md)** · **[Browse all 40 topics](#the-playbook)**
 
 **200 detailed plays · 40 topics · 12 situation checklists · 10 scripts · Offline search**
 
@@ -68,6 +70,7 @@ Pick the one that fits your life. This is a reference you can return to; finishi
 
 ## Read, download, share
 
+- **Read online:** [Open the searchable playbook](https://gerrygao1995-coder.github.io/the-american-life-playbook/). Share a play's direct link with someone who needs it.
 - **Read on GitHub:** use the topic table or [start here](START-HERE.md).
 - **Read offline:** download [index.html](https://github.com/gerrygao1995-coder/the-american-life-playbook/raw/refs/heads/main/index.html), then open the saved file in your browser. It contains all 200 plays. The full ZIP also includes the checklists, scripts, and source ledger.
 - **Get the whole project:** [Download ZIP](https://github.com/gerrygao1995-coder/the-american-life-playbook/archive/refs/heads/main.zip).
